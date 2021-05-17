@@ -1,5 +1,3 @@
-from sys import setprofile
-
 class Charm():
 
     def __init__(self):
@@ -15,7 +13,11 @@ class Charm():
             for value in line.split('\t')[1].split(','):
                 values.add(int(value))
             map[key] = values
-        return map    
+        
+        result = dict()
+        for key in sorted(map):
+            result[key] = map[key]
+        return result    
 
     def get_string_union(self, str1, str2):
         """
@@ -44,28 +46,27 @@ class Charm():
             key = key.replace(current, target)
             key = self.get_string_union(key, "")
             map[key] = values
-
         return map
 
     def charmProp(self, x1, x2, y:set, minSup:int, map:dict, newN:dict):
         if len(y) >= minSup:
             if map[x1] == map[x2]:
-                self.skip_set.add(map[x1])
+                self.skip_set.add(x1)
                 temp = self.get_string_union(x1,x2)
                 newN = self.replace_in_items(x1, temp, newN)
                 map = self.replace_in_items(x1, temp, map)
                 return temp, map, newN
-            elif map[x2] in map[x1]:
+            elif all(elem in map[x2] for elem in map[x1]):
                 temp = self.get_string_union(x1,x2)
                 newN = self.replace_in_items(x1, temp, newN)
                 map = self.replace_in_items(x1, temp, map)
                 return temp, map, newN
-            elif map[x1] in map[x2]:
-                self.skip_set.add(map[x2])
+            elif all(elem in map[x1] for elem in map[x2]):
+                self.skip_set.add(x2)
                 newN[self.get_string_union(x1,x2)] = y
                 return x1, map, newN
             else:
-                if map[x1] == map[x2]:
+                if map[x1] != map[x2]:
                     newN[self.get_string_union(x1,x2)] = y
                     return x1, map, newN
         return x1, map, newN
@@ -94,13 +95,13 @@ class Charm():
                 x = self.get_string_union(xi, xj)
                 y = nodes[xi]
                 temp = y
-                temp = [value for value in temp if value not in nodes[xj]]
+                temp = [value for value in temp if value in nodes[xj]]
                 xi, nodes, newN = self.charmProp(xi, xj, temp, minSup, nodes, newN)
             if len(newN) != 0:
                 self.charm_extended(newN, c, minSup)
             if x_prev != None and nodes.get(x_prev, None) != None and not self.is_subsmed(c, nodes.get(x_prev, None)):  
                 c[x_prev] = nodes[x_prev]
-            if x != None and nodes.get(x, None) != None and not self.is_subsmed(x, nodes.get(x, None)):
+            if x != None and nodes.get(x, None) != None and not self.is_subsmed(c, nodes.get(x, None)):
                 c[x] = nodes[x]
         return c
 
