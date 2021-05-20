@@ -19,14 +19,14 @@ def scrape_data():
     corpus = []
     for s in sub:
         subreddit = reddit.subreddit(s)
-        for submission in subreddit.new(limit=5000):
+        for submission in subreddit.new(limit=100):
             # Fetches the posts from DDs
             try:
-                if submission.link_flair_template_id == '5692ce02-b860-11e5-b542-0edc7016bbd3':
-                    corpus.append(submission.title)
-                    corpus.append(submission.selftext)
-                    for comment in submission.comments.replace_more():
-                        corpus.append(comment.body)
+                # if submission.link_flair_template_id == '5692ce02-b860-11e5-b542-0edc7016bbd3':
+                corpus.append(submission.title)
+                corpus.append(submission.selftext)
+                for comment in submission.comments.replace_more():
+                    corpus.append(comment.body)
             except:
                 print('Error')
     return corpus
@@ -84,6 +84,6 @@ def flip_data(corpus):
     # Writes to file
     with open('corpus_result.txt', 'w') as f:
         for i in items_lst:
-            f.write(i[0] + ' ' + ','.join(map(lambda x:str(x), i[1])) + '\n')
+            f.write(i[0] + '\t' + ','.join(map(lambda x:str(x), i[1])) + '\n')
 
 flip_data(clean_data(scrape_data()))

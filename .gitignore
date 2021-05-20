@@ -131,3 +131,4 @@ dmypy.json
 .idea/
 
 corpus_result.txt
+test.txt
