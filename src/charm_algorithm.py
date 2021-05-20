@@ -35,12 +35,12 @@ class Charm():
         return string_value
     
     def replace_in_items(self, current, target, map):
-        temp = []
-
+        temp =  []
+        print(map.keys())
         for key in map.keys():
-           if(key in current):
+           if(current in key):
                temp.append(key)
-
+        
         for key in temp:
             values = map[key]
             map.pop(key, None)
