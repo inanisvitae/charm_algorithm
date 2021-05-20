@@ -1,3 +1,4 @@
+import copy
 class Charm():
 
     def __init__(self):
@@ -56,12 +57,12 @@ class Charm():
                 newN = self.replace_in_items(x1, temp, newN)
                 map = self.replace_in_items(x1, temp, map)
                 return temp, map, newN
-            elif all(elem in map[x2] for elem in map[x1]):
+            elif all(elem in map[x2] for elem in map.get(x1, None)):
                 temp = self.get_string_union(x1,x2)
                 newN = self.replace_in_items(x1, temp, newN)
                 map = self.replace_in_items(x1, temp, map)
                 return temp, map, newN
-            elif all(elem in map[x1] for elem in map[x2]):
+            elif all(elem in map[x1] for elem in map.get(x2, None)):
                 self.skip_set.add(x2)
                 newN[self.get_string_union(x1,x2)] = y
                 return x1, map, newN
@@ -93,9 +94,9 @@ class Charm():
                 if items[j] in self.skip_set:
                     continue
                 x = self.get_string_union(xi, xj)
-                y = nodes[xi]
+                y = nodes.get(xi, [])
                 temp = y
-                temp = [value for value in temp if value in nodes[xj]]
+                temp = [value for value in temp if value in nodes.get(xj, [])]
                 xi, nodes, newN = self.charmProp(xi, xj, temp, minSup, nodes, newN)
             if len(newN) != 0:
                 self.charm_extended(newN, c, minSup)
@@ -106,10 +107,11 @@ class Charm():
         return c
 
     def charm(self, nodes:dict, minSup:int):
+        nd = copy.deepcopy(nodes)
         for key in nodes.keys():
             if len(nodes[key]) < minSup:
-                nodes.pop(key, None)
+                nd.pop(key, None)
         
         c = dict()
-        c = self.charm_extended(nodes, c, minSup)
+        c = self.charm_extended(nd, c, minSup)
         return c
