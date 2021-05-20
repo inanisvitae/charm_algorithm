@@ -36,7 +36,6 @@ class Charm():
     
     def replace_in_items(self, current, target, map):
         temp =  []
-        print(map.keys())
         for key in map.keys():
            if(current in key):
                temp.append(key)
