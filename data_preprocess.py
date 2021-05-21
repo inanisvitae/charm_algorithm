@@ -37,7 +37,7 @@ def clean_data(corpus):
         curr_text = corpus[i]
 
         # Remove urls
-        curr_text = re.sub(r'^https?:\/\/.*[\r\n]*', '', curr_text, flags=re.MULTILINE)
+        curr_text = re.sub(r'http\S+', '', curr_text, flags=re.MULTILINE)
 
         # lowercase
         curr_text = curr_text.lower()
