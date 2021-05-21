@@ -20,18 +20,32 @@ class Charm():
             result[key] = map[key]
         return result    
 
+    # def get_string_union(self, str1, str2):
+    #     """
+    #     Function to compute the union of two item sets - (Xi U Xj). Items are ordered lexicographically
+    #     """
+        # str = str1+str2
+        # char_array = list(set(str))
+        # char_array.sort()
+        # string_value = ""
+        #
+        # # traverse in the string
+        # for ele in char_array:
+        #     string_value += ele
+        # return string_value
+
     def get_string_union(self, str1, str2):
         """
         Function to compute the union of two item sets - (Xi U Xj). Items are ordered lexicographically
         """
-        str = str1+str2
-        char_array = list(set(str))
-        char_array.sort()  
-        string_value = "" 
-    
-        # traverse in the string  
-        for ele in char_array: 
-            string_value += ele
+        if str1 is '':
+            return str2
+        if str2 is '':
+            return str1
+        total_str = str1 + ':' + str2
+        total_str = list(set(total_str.split(':')))
+        total_str.sort()
+        string_value = ':'.join(total_str)
         return string_value
     
     def replace_in_items(self, current, target, map):
