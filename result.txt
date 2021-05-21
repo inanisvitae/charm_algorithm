@@ -1,223 +1,37 @@
-absolutely	89 75 141
-addition:become:could:first:going:higher:price:year	51 141 79
-addition:could:price:days	73 51 141
-addition:could:price:quarter	73 51 79
-addition:could:price:time	73 141 79
-almost:high:lot:low:market:see	173 83 147
-almost:like	83 147 149
-almost:money	173 83 149
 almost	194 173 83 147 149
-alone	45 11 69
-already:analysis	97 141 123
-already:companies:company:current:go:new:year	97 173 79
-already:companies:company:go:new:find	33 97 173
-already:companies:company:go:new:price	33 173 79
-already:companies:make	33 173 31
-already:companies:new	33 97 173 79
-already:companies:next:provide:supply	173 79 31
-already:companies:someone	33 97 31
 already:companies	33 97 173 79 31
-already:company:dd:last:stock	133 173 123
-already:company:dd:much	133 75 173
-already:company:dd	133 75 173 123
-already:company:due	97 173 123
-already:company:go:next	75 173 79
-already:company:go:us	33 75 79
 already:company:go	33 97 75 173 79
-already:company:going:good:like:market:would	33 79 123
-already:company:going:market:stock	173 79 123
-already:company:going:market:towards	33 173 123
-already:company:last:stock:year	133 173 79
-already:company:market	33 173 79 123
-already:company:plan	75 79 123
-already:company:since	33 133 123
-already:company:stock	133 173 79 123
-already:company:thoughts	97 133 123
-already:company:year	97 133 173 79
 already:company	33 97 133 75 173 79 123
-already:dont:going:isnt:price	33 141 173
-already:dont:next	75 141 173
-already:dont	33 75 141 173
-already:get:going:like:plan	141 79 123
-already:get:going:like:play:price:time	33 141 79
-already:get:going:like:since	33 141 123
-already:going:last:next:price:said:year	141 173 79
-already:going:last:tldr	141 173 123
-already:going:last	141 173 79 123
-already:going:like	33 141 79 123
-already:going:price	33 141 173 79
 already:going	33 141 173 79 123
-already:last:much:year	133 141 173
-already:last:since	133 141 123
-already:last:year	133 141 173 79
 already:last	133 141 173 79 123
-already:long:make	33 123 31
-already:long:thoughts	133 123 31
-already:long	33 133 123 31
-already:look:plan:next	75 141 79
-already:make	33 173 123 31
-already:market:short	33 20 123
 already:market	33 173 79 20 123
-already:much	133 75 141 173
-already:need	33 75 31
 already:next	75 141 173 79 31
-already:plan	75 141 79 123
-already:see:year	97 141 173
-already:since	33 133 141 123
-already:thoughts	97 133 123 31
 already:year	97 133 141 173 79
 already	33 97 133 75 141 173 79 20 123 31
-always:company:dont:earnings:going:next:positions:stock	83 173 55
-always:dont:investors	121 83 55
-always:dont:new	121 83 173
-amc:next:play:week	161 59 58
-amc:price	161 59 94
-amc:selling	161 144 27
 amc	161 59 144 58 27 94
-amount:get:good:like:market:new:us	33 169 79
-amount:like:market:low	33 197 79
-amount:like:market:made	169 197 79
-amount:like:market:mean	33 169 197
-analysis:based	161 11 83
-analysis:company:due	97 83 123
-analysis:company:inc	97 9 83
-analysis:company	97 9 83 123
-analysis:dd	82 83 123
-analysis:get:good:last:like:lot:market:tldr:would	161 83 123
-analysis:get:last:like:tldr:since	141 83 123
-analysis:get:last:like:tldr:technical	161 141 83
-analysis:get:last:like:tldr:week	161 141 123
-analysis:inc:technical	9 82 83
-analysis:inc	97 9 82 83
-analysis:new	97 10 83
-analysis:next:support:technical:place	161 9 83
-analysis:see:thats:year	97 141 83
-analysis:see	97 11 141 83
 analysis:technical	161 9 10 141 82 83
-analysis:tldr	161 141 83 123
-analysis:two	9 11 83
 analysis	97 161 9 10 11 141 82 83 123
-another:bad:best:big:dont:even:go:like:market:really:time:way:would	33 91 83
-another:believe:big:dont:even:know:like:thats:way	91 83 153
-another:believe:like:see	101 83 153
-another:believe:like:think	101 91 153
-another:believe:like:time	101 91 83
-another:best:find:like:market:really:short:us:well:would	33 161 91
-another:best:like:market:really:would:still	161 91 83
-another:best:like:market:really:would:talking	33 161 83
-another:best:like:market:really:would	33 161 91 83
-another:big:dont:even:like:way:us	33 91 153
-another:big:dont:like:market	33 197 91 83
-another:big:dont:like:see	197 83 153
-another:big:dont:like:way	33 91 83 153
 another:big:like:dont	33 197 91 83 153
-another:big:even:go:least:like:market:really:still:time	89 91 83
-another:big:even:go:like:market:really:time:remember	89 33 91
-another:big:even:go:like:market:really:time:since	89 33 83
-another:big:even:go:like:market:really:time	89 33 91 83
 another:big:like:even	89 33 91 83 153
-another:big:high:like:made	89 197 83
-another:big:high:like:market	89 33 197 83
 another:big:like:market	89 33 197 91 83
-another:buy:like:market:would:short	161 91 123
-another:buy:like:market:would:stock	91 83 123
-another:buy:like:market:would	161 91 83 123
-another:coming:good:like:market:pressure:really:still	89 161 83
-another:coming:like:market:may	161 197 83
-another:company:get:going:good:like:market:since:would	33 83 123
-another:company:going:like:market:since:similar	33 101 123
-another:company:going:like:market:since:thought	101 83 123
-another:company:going:like:market:since:time	33 101 83
-another:could:even:every:go:still:time:way	91 45 83
-another:could:like:market:see	197 101 83
-another:could:look:since:time	101 45 83
-another:could:look	197 101 45 83
-another:could:market	197 101 91 83
-another:could:time	101 91 45 83
 another:could	197 101 91 45 83
-another:even:go:good:high:less:time	89 33 45
-another:even:go:good:high:new:since:time:way:weeks	33 45 83
-another:even:go:good:high:since:still:time	89 45 83
-another:even:go:short:time:us:way	33 91 45
-another:even:go:time:since	89 33 45 83
-another:even:go:time:still	89 91 45 83
-another:even:go:time:way	33 91 45 83
 another:even:time	89 33 91 45 83
-another:even:us:way	33 91 45 153
 another:even:way	33 91 45 83 153
 another:even	89 33 91 45 83 153
-another:financial:like:market:lot	161 101 123
-another:financial:like:market:think	101 91 123
-another:financial:like:market:well	161 101 91
-another:first:good:tldr	161 45 83
-another:first:good:us	33 161 45
-another:first:good	33 161 45 83
-another:first:high:large	33 197 45
-another:first:high:like:low:market	33 197 83
-another:first:high:look	197 45 83
-another:first:high	33 197 45 83
-another:first:like:low:market:mean	33 161 197
-another:first:low:market	33 161 197 83
 another:first	33 161 197 45 83
-another:get:good:like:market:would:short	33 161 123
-another:get:good:like:market:would	33 161 83 123
-another:good:like:market:playing	89 161 123
-another:good:like:market:really	89 33 161 83
-another:good:like:market:since	89 33 83 123
 another:good:market	89 33 161 83 123
-another:good:short:since	33 45 123
-another:good:short:tldr:week	161 45 123
-another:good:short	33 161 45 123
-another:good:since:tldr	45 83 123
 another:good:since	89 33 45 83 123
-another:good:still	89 161 45 83
-another:good:tldr	161 45 83 123
 another:good	89 33 161 45 83 123
-another:high:small	89 197 45
 another:high	89 33 197 45 83
-another:however:june	45 153 123
-another:however:like:point	161 101 153
-another:however:like:real:think	101 153 123
-another:however:like	161 101 153 123
-another:however:major	161 101 45
-another:however:since	101 45 123
-another:however:top	101 45 153
-another:however:us	161 45 153
 another:however	161 101 45 153 123
-another:investors:like:market:really:since:time:side	89 101 83
-another:know:like:think	91 153 123
-another:like:lot:market:talking	161 101 83
-another:like:low:market:place:price:really:talking:well	33 161 101
-another:like:low:market:price:really:talking	33 161 101 83
-another:like:made:market:things	89 197 101
-another:like:make:market:real:short:similar:towards:would	33 91 123
-another:like:make:market:real:similar:well	33 101 91
-another:like:market:short:would	33 161 91 123
-another:like:market:similar	33 101 91 123
-another:like:market:since:time	89 33 101 83
+another:like:market:really:time	89 33 101 91 83
+another:like:market:really	89 33 161 101 91 83
 another:like:market:since	89 33 101 83 123
-another:like:market:still	89 161 91 83
-another:like:market:stock	101 91 83 123
-another:like:market:time	89 33 101 91 83
-another:like:market:well	33 161 101 91
 another:like:market:would	33 161 91 83 123
 another:like:market	89 33 161 197 101 91 83 123
-another:like:may:point	161 83 153
-another:like:may	161 197 83 153
-another:like:point	161 101 83 153
-another:like:real:related	33 153 123
-another:like:real:technology	33 101 153
-another:like:real:think	101 91 153 123
 another:like:real	33 101 91 153 123
-another:like:see	197 101 83 153
-another:like:us	33 161 91 153
 another:like	89 33 161 197 101 91 83 153 123
-another:look:since	101 45 83 123
 another:look	197 101 45 83 123
-another:major:time	33 101 45
-another:major	33 161 101 45
-another:short:still:us	161 91 45
-another:short:us	33 161 91 45
 another:short	33 161 91 45 123
 another:since:time	89 33 101 45 83
 another:since	89 33 101 45 83 123
@@ -225,2713 +39,828 @@ another:still	89 161 91 45 83
 another:time	89 33 101 91 45 83
 another:us	33 161 91 45 153
 another	89 33 161 197 101 91 45 83 153 123
-anyone	132 45 198 133
-apes	137 186 27 180
-around:could:high:look	45 83 85
-around:could:high:test	171 83 85
-around:could:high:way	171 45 83
-around:high:side	171 83 89
-around:high:spy	171 85 89
 around:high	171 45 83 85 89
-around:market	171 83 89 63
-around:money	83 149 63
-around:still	45 83 149 89
-around:world	45 89 63
 around	171 45 83 85 149 89 63
-available:could:time	73 83 147
-available:long	73 147 17
-available:see	83 147 17
-available:shares	73 83 17
-available	73 83 147 17
-b	169 130 195 61
-back:could:every:first:get:going:higher:keep:last:like:look:means:months:next:price:support:time:year	141 79 83
-back:could:get:like:next:point:price	141 49 83
-back:could:get:like:next:price:time:would	79 49 83
-back:could:high:higher:market:price:stock:support:way	171 79 83
-back:could:like:next:price:time	141 79 49 83
-back:could:options:price	171 141 49
-back:could:price:support	171 141 79 83
 back:price:could	171 141 79 49 83
-back:currently:get:like:next:price:us:would	161 79 49
-back:first:get:good:last:like:low:market:months:next:price:support:volume:would	161 79 83
-back:first:get:last:like:months:next:play:price	161 141 79
-back:get:like:next:point:price:would	161 49 83
-back:get:like:next:point:price	161 141 49 83
-back:get:like:next:price:support	161 141 79 83
-back:get:like:next:price:would	161 79 49 83
-back:level:market:may:price:support	161 171 83
-back:price:long	161 171 49
-back:major:market:price:support	161 171 79
-back:market:price:support	161 171 79 83
 back:price:next	161 141 79 49 83
 back:price:support	161 171 141 79 83
-bad:still:would	83 91 158
 bad:time	33 166 73 83 91
-bad:would	33 83 91 158
 bad	33 166 73 83 91 158
-based:could:make	101 11 59
-based:could:money	11 83 59
-based:could:place:price:since:stock:time	101 83 59
-based:could:see	101 11 83
-based:could	101 11 83 59
-based:getting	161 11 59
-based:last:next:place:price:volume	161 83 59
-based:mostly	101 75 83
-based:next	161 75 83 59
-based:place:price:play	161 101 59
-based:price	161 101 83 59
 based	161 101 11 75 83 59
-become:first:going:like	17 141 79
-become:first:going:record	17 51 79
-beginning	89 51 85
-believe:better:buy:company:could:earnings:even:first:going:higher:investors:market:new:price:record:supply:year	79 83 51
-believe:better:company:could:going:investors:market:price:products	101 79 51
-believe:better:company:could:going:investors:market:price:since	101 83 51
-believe:better:company:could:going:investors:market:price:time	101 79 83
-believe:better:even:like:way	79 83 153
-believe:better:even:seen	83 51 153
-believe:better:even:us	79 51 153
-believe:better:even	79 83 51 153
-believe:better:like	101 79 83 153
-believe:better:price	101 79 83 51
-believe:better:real:top	101 51 153
 believe:better	101 79 83 51 153
-believe:buy:could:even:market:us	79 51 91
-believe:buy:could:even:market:would	79 83 91
-believe:company:first:market:months:volume:year	195 79 83
-believe:company:first:market:year	195 79 83 51
-believe:company:look:next	75 79 83
-believe:company:look	101 75 79 83
 believe:company:market	195 101 79 83 51
-believe:company:us	75 79 51
 believe:company	195 101 75 79 83 51
-believe:could:market:even	79 83 51 91
-believe:could:like:market:stock:time	101 79 83 91
-believe:could:market:real	101 51 91
-believe:dont:next	75 83 91
-believe:dont:us	75 153 91
-believe:dont	75 83 153 91
-believe:even:like:way:us	79 153 91
-believe:even:like:way	79 83 153 91
-believe:even:us	79 51 153 91
 believe:even	79 83 51 153 91
-believe:go:next:us	75 79 91
 believe:like	101 79 83 153 91
 believe:market	195 101 79 83 51 91
-believe:next	75 79 83 91
-believe:real:us	51 153 91
-believe:real	101 51 153 91
 believe:us	75 79 51 153 91
 believe	195 101 75 79 83 51 153 91
-best:big:dont:low	33 47 83
-best:big:dont:short	33 47 91
-best:big:dont:stock	47 83 91
-best:daily:dailyhttpswwwredditcomrwallstreetbetssearchsorttopqflairaddrestrict_srontday:dailyhttpswwwredditcomrwallstreetbetssearchsorttopqflairadiscussionrestrict_srontday:dailyhttpswwwredditcomrwallstreetbetssearchsorttopqflairagainrestrict_srontday:dailyhttpswwwredditcomrwallstreetbetssearchsorttopqflairalossrestrict_srontday:dailyhttpswwwredditcomrwallstreetbetssearchsorttopqflairayolorestrict_srontday:dd:discussion:earnings:follow:gain:impersonators:keep:loss:make:meme:minimum:modehttpswwwredditcomrwallstreetbetssearchqflairamemeflairasatireflairashitpostrestrict_srtdaysorthot:navigate:official_wsbhttpstwittercomofficial_wsb:people:please:read:recommend:ruleshttpswwwredditcomrwallstreetbetswikicontentguide:shitposting:sure:thread:threadhttpswwwredditcomrwallstreetbetssearchsortnewrestrict_sronqflairaearningsthread:top:trading:try:twitter:weekly:weeklyhttpswwwredditcomrwallstreetbetssearchsorttopqflairaddrestrict_srontweek:weeklyhttpswwwredditcomrwallstreetbetssearchsorttopqflairadiscussionrestrict_srontweek:weeklyhttpswwwredditcomrwallstreetbetssearchsorttopqflairagainrestrict_srontweek:weeklyhttpswwwredditcomrwallstreetbetssearchsorttopqflairalossrestrict_srontweek:weeklyhttpswwwredditcomrwallstreetbetssearchsorttopqflairayolorestrict_srontweek:yolo	99 179 23
-best:dont:even:like:first	33 137 83
-best:dont:even:like:make	33 137 91
-best:dont:even:like:money	137 83 91
-best:dont:last	137 47 83
-best:dont:like	33 137 83 91
 best:dont	33 137 47 83 91
-best:find:like:first	33 161 137
-best:first:like:tldr	161 137 83
-best:get:going	33 83 118
-best:get	33 161 83 118
-best:last:low:volume	161 47 83
-best:last	161 137 47 83
 best:like	33 161 137 83 91
-best:loss	99 83 179 23
-best:low:short	33 161 47
-best:low	33 161 47 83
-best:make:people	33 99 179 23
-best:make:read:sure	99 179 23 91
 best:make	33 99 137 179 23 91
 best:read	161 99 179 23 91
-best:short	33 161 47 91
-best:trade	161 47 118
-best:trading	99 47 179 23
 best	33 161 99 137 47 83 179 118 23 91
-better:buy:company:due:earnings:going:market:new:price:supply:two:year	173 83 51
-better:buy:company:earnings:going:market:new:price:supply:year:month	173 79 51
-better:buy:company:earnings:going:market:new:price:supply:year:stock	173 79 83
-better:buy:company:earnings:going:market:new:price:supply:year	173 79 83 51
-better:company:going:low:market:price:side	101 173 83
-better:company:going:market:price:real	101 173 51
-better:company:going:market:price:stock	101 173 79 83
-better:could:earnings:keep:last:price:shares:time	73 79 83
-better:could:price:earnings	73 79 83 51
-better:could:price:time	101 73 79 83
-better:could:price:top	101 73 51
-better:earnings:price:last	73 173 79 83
-better:going:market:price:however	101 173 79
-better:however:like	101 79 153
-better:however:real:see:think	101 173 153
-better:however	101 173 79 153
+better:company:going:market:price	101 173 79 83 51
+better:could:price	101 73 79 83 51
+better:earnings:price	73 173 79 83 51
 better:price	101 73 173 79 83 51
-better:real	101 173 51 153
-better:see	101 173 83 153
-better:top	101 73 51 153
 better	101 73 173 79 83 51 153
-big:buy:time:would	67 83 91
-big:could:like:market:dont	197 83 91
-big:could:early:know:like:market:time	83 147 91
-big:could:like:market:thing	197 83 147
-big:demand	67 169 149
-big:dont:like:market:really:thats	169 83 91
-big:dont:like:market:really:us	33 169 91
-big:dont:like:market:really	33 169 83 91
 big:dont:like:market	33 197 169 83 91
-big:dont:like:thats:us	169 153 91
-big:dont:like:thats	169 83 153 91
-big:dont:like:us	33 169 153 91
 big:dont:like	33 197 169 83 153 91
-big:dont:low	33 197 47 83
-big:dont:shares	169 47 83
 big:dont	33 197 169 47 83 153 91
-big:first:high:hope:level:like:low:market:time	33 83 147
-big:first:high:like:low:market:large	33 197 147
-big:first:market	33 197 83 147
-big:first:time:would	33 67 83
-big:first:time	33 67 83 147
 big:first	33 67 197 83 147
-big:good:like:market:really:made	89 169 83
-big:high:like:made:market:time	89 83 147
-big:high:like:market:made	89 197 83 147
-big:high:like:market:time	33 89 83 147
-big:information:like:market	89 169 147
-big:information:like:stocks	89 169 153
-big:know:like:see	83 147 153
-big:like:made:market:probably	169 83 147
-big:like:made:market:things	89 197 169
-big:like:market:post	169 147 91
 big:like:market:really	33 89 169 83 91
-big:like:market:similar:time	33 147 91
 big:like:market:time	33 89 83 147 91
 big:like:market	33 89 197 169 83 147 91
-big:like:money:still	83 149 91
-big:like:money	169 83 149 91
-big:like:people	33 89 149
-big:like:see	197 83 147 153
-big:like:short	33 149 91
-big:like:still	89 83 149 91
 big:like	33 89 197 169 83 147 149 153 91
-big:long:time	33 67 147
-big:long	33 67 169 147
 big:low	33 197 47 83 147
-big:news	32 33 89 83
-big:past	67 169 47 83
-big:release	32 33 153
-big:short	33 47 149 91
-big:stocks	89 67 169 153
-big:time:would	33 67 83 91
 big:time	33 89 67 83 147 91
 big	32 33 89 67 197 169 47 83 147 149 153 91
-biggest	18 20 173
-billion	75 164 79
-borrowing	73 194 61
-bottom:may:price:next	161 83 85
-bottom:may:price:resistance	161 171 85
-break:loss:market:new	169 83 51
-break:market:making	83 147 51
-building	91 92 197
-bull:next:stock	117 55 59
-bull:next:week	161 55 59
-bull:next:well	161 117 55
-bull:next	161 117 55 59
+breaking	198 169 140 141 79 62 63
 bull	160 161 117 55 59
-bullish:could	11 171 85
-bullish:day	161 11 85
-bullish:may:week	161 85 185
-bullish:may	161 171 85 185
-bullish:put	11 171 185
 bullish	161 11 171 85 185 188
-business:could	45 83 31
-business:even:first:fully:go:hands:number:way:weeks	45 17 83
-business:first	195 45 17 83
-business:high:time	166 45 83
 business	195 166 134 45 17 83 31
-businesses	112 97 45
-buy:company:continue:earnings:going:last:market:stock:tldr	173 83 123
-buy:company:continue:earnings:going:last:market:stock:would	79 83 123
-buy:company:due:earnings:going:market:real	173 51 123
-buy:company:due:earnings:going:market:strong	51 83 123
-buy:company:earnings:going:market:due	173 51 83 123
-buy:company:earnings:going:market:stock	173 79 83 123
-buy:dip	128 67 83 184
-buy:expect	67 173 79
-buy:financial:market:real	91 51 123
-buy:financial:market:us	161 91 51
-buy:first:following	161 67 51
-buy:first:market:price:selling	161 51 83
-buy:first:market:price:us	161 79 51
-buy:first:opportunity:past:time:would	67 79 83
-buy:first:price	161 79 51 83
-buy:first:would	161 67 79 83
 buy:first	161 67 79 51 83
-buy:get:good:last:like:market:would:however	161 79 123
-buy:go:market:next:stock:money	91 173 83
-buy:half:market:next:well	161 91 173
-buy:half:market:real	91 173 51
-buy:half:market:trend	161 173 51
-buy:highs:last:new:year	79 83 93
-buy:however:last:market:price	161 173 79
-buy:however:last:market:tldr	161 173 123
-buy:last:lot:market:tldr:price	161 173 83
-buy:last:market:price	161 173 79 83
-buy:last:market:tldr	161 173 83 123
-buy:last:market:would	161 79 83 123
 buy:last:market	161 173 79 83 123
-buy:last:month:new:year	173 79 93
-buy:last:month	161 173 79 93
-buy:last:new:year	173 79 83 93
-buy:last:technical	161 83 93
 buy:last	161 173 79 83 123 93
-buy:like:market:next:us:would	161 91 79
-buy:like:market:would:next	161 91 79 83
-buy:like:market:post:stock:would	91 79 123
-buy:like:market:would:stock	91 79 83 123
-buy:market:next:stock	91 173 79 83
 buy:market:next	161 91 173 79 83
 buy:market:price	161 173 79 51 83
-buy:market:real:similar:stock:think:towards	91 173 123
-buy:market:real	91 173 51 123
 buy:market:stock	91 173 79 83 123
-buy:market:us	161 91 79 51
 buy:market:would	161 91 79 83 123
 buy:market	161 91 173 79 51 83 123
-buy:month:new:year	173 79 51 93
 buy:month	161 173 79 51 93
 buy:new:year	173 79 51 83 93
-buy:strong	78 51 83 123
 buy:would	161 67 91 79 83 123
 buy	128 161 66 67 91 173 78 79 51 83 24 123 93 184
-buying:get:going	83 118 55
-buying:get:like:next:pressure	161 83 55
-buying:get	161 83 118 55
-buying:going:investors:keep:like:media:shares:since:stock	101 83 55
-buying:going	101 83 118 55
-buying:include:like:well	161 101 55
-buying:like	161 101 83 55
 buying	161 101 83 118 55
-call:dont:stock	47 17 83
-call:dont:would	17 49 83
-call:dont:years	47 17 49
-call:dont	47 17 49 83
-call:earnings:get:know:like:would	49 83 123
-call:get:going:like:shares:stock:would	17 83 123
-call:get:like:would:long	17 49 123
-call:get:like:would	17 49 83 123
-call:long:stock	171 17 123
-call:long	171 17 49 123
-call:options	171 47 49
-call:price	171 49 83 94
-call:stock:way	171 17 83
 call:stock	171 47 17 83 123
 call	171 47 17 49 83 123 94
-called:company:place:test	33 9 83
-called:low	33 83 185
-called:may	9 83 185
 called	33 9 83 118 185
-calls:dont	47 49 55
-calls:earnings	73 49 55
-calls:shares:short	73 47 55
 calls	104 73 47 144 49 55
-cant:dont:know:way	153 91 61
-cant:dont:money	169 91 61
-cant:dont	169 153 91 61
-cant:like:us:really	161 169 91
-cant:like:us:youre	161 169 153
-cant:long	161 169 61
-cant:point	161 153 61
-cant:us	161 169 153 91
 cant	161 169 153 91 61
-cash:company:energy:infrastructure:like:worlds	101 79 149
-cash:company:flow	79 51 149
-cash:company:increasing	101 51 149
-cash:company	101 79 51 149
-cash:either	101 61 63
-cash:increased	51 149 185
-cash:like:low	101 79 185
-cash:like	101 79 149 185
-cash:made	101 79 61
-cash:make	101 60 61
-cash:market:play	101 79 63
-cash:market	101 79 51 63
-cash:money	149 61 63
-cash:think	101 185 63
+capital	79 51 121 27 63
 cash	101 79 51 149 185 60 61 63
-changes:could:expiration:high:makers:price:stock:way	171 79 59
-changes:could:high:market:may:vix	197 171 147
-changes:could:high:market:returns	197 79 147
-changes:could:high:market	197 171 79 147
-changes:could:high:returns:time	79 147 59
-changes:could:high:returns	197 79 147 59
-changes:first:time	67 79 147
-changes:first	67 197 79 147
-changes:high	197 171 79 147 59
-changes:long	67 171 147
-changes:run:time	67 79 59
-changes:time	67 79 147 59
+changes:could:high	197 171 79 147 59
 changes	67 197 171 79 147 59
 chart	141 92 27 188 63
-charts	121 186 11
-clear	75 91 63
-close:confirmation	69 140 141
-close:could:data:like:look:see:time	101 141 147
-close:could:first:like:look:making:see:time	141 83 147
-close:could:going:keep:like:look:point:price:really:see:since:time	101 141 83
-close:could:like:look:mostly:see	101 83 147
-close:could:like:look:see:time	101 141 83 147
-close:could:look:see:may	83 147 85
-close:could:look:price:see:target	101 141 85
-close:could:look:see:price	101 141 83 85
-close:day:form:hold:see:week	141 17 85
-close:day:like	141 17 89
-close:day	141 17 85 89
-close:first:like:see:going	141 17 83
-close:first:like:see:within	141 17 147
-close:high:spy	147 85 89
-close:high:still	69 83 89
-close:high:test	69 83 85
 close:high	69 83 147 85 89
-close:investors:since:stock	101 69 83
-close:like:made:market:time	101 83 147 89
-close:like:made:see:stock	101 17 83
-close:like:made:see	101 17 83 147
 close:like:made	101 17 83 147 89
-close:like:really:since:time:year	141 83 89
 close:like:see	101 141 17 83 147
-close:like:since:time	101 141 83 89
 close:like:time	101 141 83 147 89
 close:like	101 141 17 83 147 89
-close:pattern:weekly	140 141 147
-close:pattern:year	140 141 89
-close:pattern	140 141 147 89
-close:price:since	101 69 141 83
-close:price:week	69 141 85
 close:price	101 69 141 83 85
 close:see	101 141 17 83 147 85
 close:since	101 69 141 83 89
-close:stock:two	69 17 83
-close:stock	101 69 17 83
-close:week	69 141 17 85
-close:xb	101 69 147
-close:year	140 141 83 89
 close	101 69 140 141 17 83 147 85 89
-closing	184 69 94
-coin	42 117 166
-coming:like:first	161 197 83 55
-coming:like:market	161 197 83 89
-coming:like:pressure:since	83 55 89
-coming:like:pressure	161 83 55 89
-coming:like:things	197 55 89
-comments:find	169 161 97
-comments:like	185 169 161
-comments	185 169 161 97
-commercial	192 44 45
-common:first:high:like:low:market:results:time:using	33 147 79
-common:like:low:market:time:made	147 101 79
-common:like:low:market:time:price	33 101 79
-common:like:low:market:time:similar	33 147 101
-companies:company:energy	97 101 79
-companies:company:expect:market:said:year	195 173 79
-companies:company:low:make:market:might:price:real:similar:well	33 101 173
-companies:company:market:price	33 101 173 79
-companies:company:market:towards	33 195 173
 companies:company:market	33 195 101 173 79
-companies:company:see	97 101 173
-companies:company:year	97 195 173 79
 companies:company	33 97 195 101 173 79
-companies:could	101 79 31
-companies:growth:us	96 33 79
-companies:growth	96 33 101 79
-companies:investment	97 101 31
-companies:make	33 101 173 31
-companies:quarter:year	96 97 79
-companies:st	96 33 97
 companies:year	96 97 195 173 79
 companies	96 33 97 195 101 173 79 30 31
-company:companys:year	133 79 51
-company:continue:earnings:like	79 83 149 123
-company:could:earnings:first:going:investors:since	51 83 55
-company:could:earnings:first:going:investors:stock	79 83 55
-company:could:earnings:first:going:investors:us	79 51 55
-company:could:earnings:get:investors:like:next:us	79 49 55
-company:could:earnings:going:investors	79 51 83 55
-company:could:earnings:investors:million:price:us	79 49 51
-company:could:earnings:investors:next	79 49 83 55
-company:could:earnings:investors:price	79 49 51 83
-company:could:earnings:investors:us	79 49 51 55
 company:could:investors:earnings	79 49 51 83 55
-company:could:fund:investors:like:pay:point:price:time	101 49 83
-company:could:going:investors:like:shares:stock	101 79 83 55
-company:could:going:investors:since	101 51 83 55
 company:could:investors:going	101 79 51 83 55
-company:could:investors:like:price:time	101 79 49 83
 company:could:investors:like	101 79 49 83 55
 company:could:investors:price	101 79 49 51 83
-company:dd:great:since:stock:last	133 83 123
-company:dd:great:since:stock:point	101 133 83
-company:dd:last:money:stock:year	133 173 83
-company:dd:look	101 75 83 123
-company:dd:lot:make:market:real:similar:stock:think	101 173 123
-company:dd:market:stock	101 173 83 123
-company:dd:next	75 173 83
-company:dd:since:stock	101 133 83 123
 company:dd:stock	101 133 173 83 123
 company:dd	101 133 75 173 83 123
-company:dont:earnings:next:like	49 83 55
-company:dont:earnings:next:price:whole	173 49 83
-company:dont:get:investors:like:price:time:would	33 49 83
-company:dont:get:investors:like:test	33 83 55
-company:dont:get:investors:like:us	33 49 55
-company:dont:go:going:high:low:market:new:price	33 173 83
-company:dont:go:life	33 75 83
-company:dont:go	33 75 173 83
-company:dont:going:well	33 173 55
-company:dont:going	33 173 83 55
-company:dont:idea:us	33 75 55
-company:dont:like	33 49 83 55
-company:dont:next:us	75 49 55
 company:dont:next	75 173 49 83 55
-company:dont:price:today	33 173 49
-company:dont:price	33 173 49 83
-company:dont:us	33 75 49 55
 company:dont	33 75 173 49 83 55
-company:due:go:new:see:year	97 173 83
-company:due:inc:investment:new:year	97 51 83
-company:due:new:year	97 173 51 83
 company:due	97 173 51 83 123
-company:earnings:get:going:like:shares:stock:since	83 55 123
-company:earnings:get:like:stock	79 83 55 123
-company:earnings:get:like:would	79 49 83 123
-company:earnings:like:short	149 55 123
+company:earnings:going:market	173 79 51 83 123
+company:earnings:going:stock	173 79 83 55 123
+company:earnings:going	173 79 51 83 55 123
 company:earnings:like	79 49 83 149 55 123
-company:earnings:market	173 79 51 83 123
-company:earnings:next:price	173 79 49 83
-company:earnings:next:stock	173 79 83 55
 company:earnings:next	173 79 49 83 55
-company:earnings:positions:stock	173 83 55 123
 company:earnings:price	173 79 49 51 83
-company:earnings:since	51 83 55 123
-company:earnings:stock	173 79 83 55 123
 company:earnings	173 79 49 51 83 149 55 123
-company:energy	97 101 79 149
-company:even:first:going:investors:market:new:price:since	33 51 83
-company:even:first:going:investors:market:new:price:us	33 79 51
-company:even:first:going:investors:market:new:price:would	33 79 83
-company:first:get:going:investors:like:us	33 79 55
-company:first:going:investors:like	33 79 83 55
-company:first:going:investors:price	33 79 51 83
-company:first:going:investors:since:us	33 51 55
-company:first:going:investors:since	33 51 83 55
-company:first:going:investors:us	33 79 51 55
 company:first:investors	33 79 51 83 55
 company:first:market	33 195 79 51 83
 company:first	33 195 79 51 83 55
-company:future:going:however:market:stock:shares	101 79 123
-company:future:going:however:market:stock	101 173 79 123
-company:future:said	9 173 79
 company:future	101 9 173 79 123
-company:get:investors:like:million:price:time:us:would	33 79 49
-company:get:investors:like:price:time:would	33 79 49 83
-company:get:investors:like:us	33 79 49 55
+company:get:like:going	33 79 83 55 123
 company:get:like:investors	33 79 49 83 55
-company:get:like:long:would	33 49 123
-company:get:like:market:would	33 79 83 123
-company:get:like:since	33 83 55 123
 company:get:like:would	33 79 49 83 123
-company:go:new:price	33 173 79 83
-company:go:new:st	33 97 83
-company:go:new:year	97 173 79 83
 company:go:new	33 97 173 79 83
-company:go:next	75 173 79 83
 company:go	33 97 75 173 79 83
-company:going:investors:like:since:well	33 101 55
-company:going:investors:like:since	33 101 83 55
-company:going:investors:like:time	33 101 79 83
 company:going:investors:like	33 101 79 83 55
-company:going:investors:market:price:real:since	33 101 51
-company:going:investors:market:price:since	33 101 51 83
 company:going:investors:price	33 101 79 51 83
 company:going:investors:since	33 101 51 83 55
 company:going:investors	33 101 79 51 83 55
-company:going:like:market:shares:stock	101 79 83 123
-company:going:like:market:since	33 101 83 123
 company:going:like:market	33 101 79 83 123
-company:going:like:shares:stock:since	101 83 55 123
+company:going:like:shares:stock	101 79 83 55 123
 company:going:like:since	33 101 83 55 123
-company:going:like:stock	101 79 83 55 123
 company:going:like	33 101 79 83 55 123
-company:going:market:new:price:real	33 173 51
-company:going:market:price:real	33 101 173 51
 company:going:market:price	33 101 173 79 51 83
-company:going:market:real:similar	33 101 173 123
-company:going:market:real:since	33 101 51 123
 company:going:market:real	33 101 173 51 123
 company:going:market:since	33 101 51 83 123
 company:going:market:stock	101 173 79 83 123
 company:going:market	33 101 173 79 51 83 123
 company:going:since	33 101 51 83 55 123
-company:going:stock:well	101 173 55
 company:going:stock	101 173 79 83 55 123
-company:going:well	33 101 173 55
 company:going	33 101 173 79 51 83 55 123
-company:got	133 49 55
-company:great:last:profit:stock:year	133 79 83
-company:great:stock:last	133 79 83 123
-company:growth:look	101 75 79
-company:growth	33 101 75 79
-company:hard	101 9 55
-company:inc:investment:see	97 101 83
-company:inc:investment:top	97 101 51
-company:inc:investment	97 101 51 83
-company:inc:place	101 9 83
-company:inc:quality	101 9 51
-company:inc:two	9 51 83
 company:inc	97 101 9 51 83
-company:increased	97 51 149
 company:investment	2 97 101 51 83
-company:investors:like:time	33 101 79 49 83
+company:investors:like:price:time	33 101 79 49 83
 company:investors:like	33 101 79 49 83 55
-company:investors:million:price:us	33 79 49 51
 company:investors:price	33 101 79 49 51 83
 company:investors:us	33 79 49 51 55
 company:investors	33 101 79 49 51 83 55
-company:last:stock:year	133 173 79 83
-company:like:short:since	33 55 123
-company:like:short	33 149 55 123
 company:like	33 101 79 49 83 149 55 123
-company:long	33 133 49 123
 company:look	101 75 79 83 123
-company:loss:making:since:year	133 51 83
-company:lower	33 195 9
-company:many	33 97 55
-company:market:towards	33 195 173 123
 company:market:year	195 173 79 51 83
 company:market	33 195 101 173 79 51 83 123
-company:money:still	133 83 149
-company:money	133 173 83 149
 company:new:price	33 173 79 51 83
-company:new:quarter:year	97 79 51
 company:new:year	97 173 79 51 83
 company:new	33 97 173 79 51 83
-company:next:support	9 79 83
-company:next:test	9 83 55
-company:next:today	9 173 49
-company:next:two	9 173 83
-company:next:us	75 79 49 55
 company:next	9 75 173 79 49 83 55
-company:people	33 173 149
-company:place	33 101 9 83
-company:point	101 133 49 83
 company:price	33 101 173 79 49 51 83
-company:program	9 79 51
-company:said	195 9 173 79
-company:see	97 101 173 83
 company:since:stock	101 133 83 55 123
 company:since	33 101 133 51 83 55 123
 company:stock	101 133 173 79 83 55 123
-company:test	33 9 83 55
-company:today	33 9 173 49
-company:two	9 173 51 83
 company:us	33 75 79 49 51 55
-company:work	33 9 51
 company:year	195 97 133 173 79 51 83
 company	33 2 195 97 101 133 9 75 173 79 49 51 83 149 55 123
-compared:due	97 123 51
-compared:market	169 123 51
-compared:new	169 97 51
-compared	169 97 123 51
-complete:data	101 9 141
-complete:like:overall:really:since:time	101 141 89
-complete:price	101 171 141
-complete:side	101 171 89
-complete:support	9 171 141
 complete	101 9 171 141 89
 continue:earnings	173 79 83 149 123
-continue:edit	117 149 123
-continue:good:market:next:prices:stock:time:would	79 83 117
-continue:good:market:stock:would:since	83 117 123
-continue:good:market:stock:would	79 83 117 123
-continue:market:stock:next	173 79 83 117
-continue:market:stock:think	173 117 123
-continue:stock	173 79 83 117 123
+continue:market:stock	173 79 83 117 123
 continue	173 79 83 117 149 123
-cost:financial:going:hand:inc:position	17 51 101
-cost:first	17 137 51
-cost:investment	137 51 101
-cost:made	17 137 101
-cost	17 137 51 101
-could:data:making	141 51 147
-could:data:market	101 51 147
-could:data:since	101 141 51
-could:data	101 141 51 147
-could:day:days	11 141 55
-could:day:next:week	141 85 55
-could:day:see	11 141 85
-could:day	11 141 85 55
-could:days:earnings	73 51 55
-could:days:keep	73 141 55
-could:days:since	141 51 55
-could:days:xb	73 11 55
 could:days	73 11 141 51 55
-could:dont:first:get:going:keep:like:next:positions:since	141 83 55
-could:dont:first:like:see	197 141 83
-could:dont:like:first	197 141 83 55
-could:dont:found:know:like:next:time:would	49 83 91
-could:dont:like:full	197 49 55
-could:dont:get:got:like	141 49 55
-could:dont:got:like:next:time	141 49 91
-could:dont:got:like:next:us	49 55 91
-could:dont:like:next:stock	83 55 91
-could:dont:like:next:time	141 49 83 91
 could:dont:like:next	141 49 83 55 91
-could:early:next	83 85 91
-could:early	83 85 147 91
-could:earnings:price:time	73 79 49 83
 could:earnings:price	73 79 49 51 83
-could:earnings:shares	73 79 83 55
 could:earnings	73 79 49 51 83 55
-could:even:every:go:time:way:new	45 79 83
-could:even:every:go:time:way:us	45 79 91
-could:even:first:new:since	45 51 83
-could:even:first:new:us	45 79 51
-could:even:go:time:way	45 79 83 91
-could:even:new	45 79 51 83
-could:even:us	45 79 51 91
 could:even	45 79 51 83 91
-could:every:first:look:means:time:tldr	45 141 83
-could:every:like:next:really:time	141 83 91
-could:every:time:means	45 141 79 83
-could:every:time:next	141 79 83 91
-could:first:full:high:large:look:medium	197 45 147
-could:first:full:like	197 147 55
-could:first:full	197 45 147 55
-could:first:high:like:look:low:made:market:prices:time	79 83 147
-could:first:high:look:market	197 79 83 147
-could:first:high:look:time:uses	45 79 147
-could:first:high:look:time	45 79 83 147
-could:first:like:look:see	197 141 83 147
-could:first:like:look:time	141 79 83 147
+could:first:going	141 79 51 83 55
 could:first:like:look	197 141 79 83 147
-could:first:like:next	141 79 83 55
 could:first:like	197 141 79 83 147 55
 could:first:look:time	45 141 79 83 147
 could:first:look	197 45 141 79 83 147
-could:first:making:price:since:year	141 51 83
-could:first:making	141 51 83 147
-could:first:market:results	79 51 147
 could:first:market	197 79 51 83 147
-could:first:price:year	141 79 51 83
-could:first:since:us	45 51 55
-could:first:since:week	45 141 55
 could:first:since	45 141 51 83 55
-could:first:us	45 79 51 55
 could:first	197 45 141 79 51 83 147 55
-could:full:like	197 49 147 55
-could:full:turn	45 49 147
-could:full:us	45 49 55
 could:full	197 45 49 147 55
-could:go:time:way:goes	59 45 91
-could:go:high:last:next:price:stock:time:volume:way	59 79 83
-could:go:high:since:time:way	59 45 83
-could:go:time:way:high	59 45 79 83
-could:go:time:way:stock	59 79 83 91
-could:high:large	197 171 45 147
-could:high:last:next:price:look	79 83 85
-could:high:look:may:see:vix	197 85 147
-could:high:look:see	197 83 85 147
 could:high:look	197 45 79 83 85 147
-could:high:market:may	197 171 83 147
 could:high:market	197 171 79 83 147
-could:high:may:spy:thanks:vix	171 85 147
-could:high:may:vix	197 171 85 147
 could:high:may	197 171 83 85 147
-could:high:price:resistance	59 171 85
-could:high:price:stock:way	59 171 79 83
 could:high:price	59 171 79 83 85
 could:high:time	59 45 79 83 147
 could:high:way	59 171 45 79 83
-could:high:week	59 45 85
 could:high	197 59 171 45 79 83 85 147
-could:higher:price:market	171 79 51 83
-could:investment:supply	51 83 31
-could:investment	101 51 83 31
 could:investors	101 79 49 51 83 55
-could:keep:like:look:price:time:play	101 141 79
-could:keep:like:look:price:time	101 141 79 83
-could:keep:like:since	101 141 83 55
 could:keep:like	101 141 79 83 55
-could:keep:price:time:target	101 73 141
-could:keep:shares:xb	101 73 55
+could:keep:price:time	101 73 141 79 83
 could:keep:shares	101 73 79 83 55
-could:keep:time	101 73 141 79 83
 could:keep	101 73 141 79 83 55
-could:last:look:next:price:see	141 83 85
-could:last:next:price:time	59 141 79 83
-could:last:next:price:week	59 141 85
 could:last:price:next	59 141 79 83 85
-could:last:price:target	73 141 85
 could:last:price:time	73 59 141 79 83
-could:like:look:low:made:market:see	197 101 83 147
-could:like:look:low:made:market:time	101 79 83 147
 could:like:look:market	197 101 79 83 147
 could:like:look:see	197 101 141 83 147
 could:like:look:time	101 141 79 83 147
 could:like:look	197 101 141 79 83 147
 could:like:market:time	101 79 83 147 91
 could:like:market	197 101 79 83 147 91
-could:like:next:stock:us	79 55 91
-could:like:next:stock	79 83 55 91
-could:like:next:time:us:would	79 49 91
-could:like:next:time:would	79 49 83 91
 could:like:next:time	141 79 49 83 91
-could:like:next:us	79 49 55 91
 could:like:next	141 79 49 83 55 91
-could:like:stock:well	101 55 91
+could:like:price:time	101 141 79 49 83
 could:like:stock	101 79 83 55 91
-could:like:things	197 101 55
-could:like:time:turn	101 49 147
 could:like:time	101 141 79 49 83 147 91
-could:like:xb	101 147 55
 could:like	197 101 141 79 49 83 147 55 91
-could:long:price	73 171 49
-could:long:time	73 49 147
 could:long	73 171 49 147 31
 could:look:price	101 141 79 83 85
 could:look:see	197 101 141 83 85 147
-could:look:time:turn	101 45 147
 could:look:time	101 45 141 79 83 147
-could:look:week	45 141 85
 could:look	197 101 45 141 79 83 85 147
-could:major:stock	101 171 79
-could:major:time	101 45 79
-could:major:way	171 45 79
-could:major	101 171 45 79
-could:make:money	59 11 91
-could:make:next	59 91 31
-could:make:position	101 11 171
-could:make:put	59 11 171
-could:make:stock:time	101 59 91
-could:make:stock:way	59 171 91
-could:make:stock	101 59 171 91
 could:make	101 59 11 171 91 31
-could:market:price:stock	101 171 79 83
 could:market:price	101 171 79 51 83
-could:market:stock:way	171 79 83 91
 could:market:stock	101 171 79 83 91
 could:market	197 101 171 79 51 83 147 91
-could:money:next:stock:time:way	59 83 91
-could:money	59 11 83 91
-could:move	171 45 141
 could:next:price:time	59 141 79 49 83
 could:next:price	59 141 79 49 83 85
-could:next:since:stock	59 83 55
-could:next:since:time	59 141 83
-could:next:since:week	59 141 55
-could:next:since	59 141 83 55
 could:next:stock	59 79 83 55 91
-could:next:supply	79 83 31
-could:next:test	83 85 55
 could:next:time	59 141 79 49 83 91
-could:next:true	49 91 31
-could:next:week	59 141 85 55
-could:next:years	141 49 31
 could:next	59 141 79 49 83 85 55 91 31
-could:options:play:price:since:time	101 59 141
-could:options:price:stock	101 59 171
-could:options:price:time	101 59 141 49
-could:past	11 79 83
-could:play:price:time:stock	101 59 79
-could:position:price	101 171 51
-could:position	101 11 171 51
-could:price:since:time	101 59 141 83
 could:price:since	101 59 141 51 83
-could:price:stock:time	101 59 79 83
 could:price:stock	101 59 171 79 83
-could:price:target	101 73 141 85
-could:price:time:today	73 59 49
 could:price:time	101 73 59 141 79 49 83
 could:price	101 73 59 171 141 79 49 51 83 85
-could:ready	45 49 31
-could:real:since	101 59 51
-could:real	101 59 51 91
-could:see:xb	101 11 147
 could:see	197 101 11 141 83 85 147
-could:short:time	73 45 91
-could:short:us	45 55 91
-could:short	73 45 55 91
-could:since:stock	101 59 83 55
-could:since:time:week	59 45 141
 could:since:time	101 59 45 141 83
-could:since:top	101 45 51
-could:since:week	59 45 141 55
 could:since	101 59 45 141 51 83 55
-could:small	197 11 45
-could:stock:test	171 83 55
 could:stock:time	101 59 79 83 91
 could:stock:way	59 171 79 83 91
 could:stock	101 59 171 79 83 55 91
-could:supply	79 51 83 31
-could:test	171 83 85 55
-could:time:top	101 73 45
-could:time:turn	101 45 49 147
-could:time:us	45 79 49 91
 could:time:way	59 45 79 83 91
-could:time:xb	101 73 147
 could:time	101 73 59 45 141 79 49 83 147 91
-could:top	101 73 45 51
-could:two	11 51 83
 could:us	45 79 49 51 55 91
 could:way	59 171 45 79 83 91
 could:week	59 45 141 85 55
 could:xb	101 73 11 147 55
 could	197 101 73 59 11 171 45 141 79 49 51 83 85 147 55 91 31
-cramer	185 90 91
-current:find	97 161 173
 current	160 97 161 173 79
-currently:first:get:good:like:low:major:market:play:price:several:us:would	33 161 79
-currently:get:like:long:price	33 161 49
-currently:get:like:price:us:would	33 161 79 49
-currently:low:market:price:well	33 161 173
-currently:price:market	33 161 173 79
-currently:price:next	161 173 79 49
-daily:earnings:yolo:wsb	49 179 23
-daily:earnings:yolo	99 49 179 23
-daily:gain:loss:make:minimum:thread:yolo:wsb	169 179 23
-daily:gain:loss:make:minimum:thread:yolo	99 169 179 23
-daily:may	161 178 22
-daily:read	161 99 179 23
 daily:thread	99 169 178 179 22 23
-daily:us	161 169 49
-daily:wsb:yolo	169 49 179 23
 daily:yolo	99 169 49 179 23
 daily	161 99 169 49 178 179 22 23
-data:following	134 9 51
-data:future	101 9 147
 data	101 134 9 141 51 147
-day:days:first:get:like:next:week	161 141 55
-day:days:get:like:positions	169 141 55
-day:days:get:like:really	161 169 141
-day:days:get:like:us	161 169 55
-day:days:like:really	89 161 169 141
-day:days:like:since	89 141 55
-day:days:like:things	89 169 55
 day:days:like	89 161 169 141 55
-day:days:small	89 169 11
 day:days	89 161 169 11 141 55
-day:dont:get:going:like:week	141 17 55
-day:dont:get:like:shares	169 17 55
-day:dont:like	169 141 17 55
-day:dont:little	169 17 121
-day:dont:years	141 17 121
 day:dont	169 141 17 55 121
-day:first:get:like:week:step	161 141 17
-day:get:going	141 17 118 55
-day:get:like:long	161 169 17
-day:get:like:week	161 141 17 55
 day:get:like	161 169 141 17 55
 day:get	161 169 141 17 118 55
-day:investors	89 55 121
-day:last:next:price:week	161 141 85
-day:last	161 141 85 121
-day:like:made	89 169 17
-day:like:right	89 161 17
 day:like	89 161 169 141 17 55
-day:note	169 141 85
-day:position	11 17 121
-day:price	161 141 85 94
-day:see	11 141 17 85
-day:stated	169 17 85
-day:trade	161 52 118
 day:week	161 141 17 85 55
-day:xb	11 55 121
 day	89 161 169 11 141 17 52 85 118 55 121 92 94
-days:earnings:investors:since	51 55 89
-days:earnings	73 51 55 89
-days:first:price	161 141 51
-days:first:us	161 51 55
-days:first	161 141 51 55
-days:include:us:market	161 169 51
-days:interest	161 73 89
-days:long	161 73 169
-days:market:second	161 51 89
-days:market	161 169 51 89
-days:price	161 73 141 51
-days:shares	73 169 55
-days:short	161 73 55
-days:since:year	141 51 89
-days:since	141 51 55 89
-days:time	73 141 89
-days:us	161 169 51 55
 days	161 73 169 11 141 51 55 89
-dd:earnings:make:please:weekly	99 179 23 123
-dd:earnings:make:sure	99 173 179 23
 dd:earnings:make	99 173 179 23 123
 dd:earnings	99 173 83 179 23 123
-dd:inc	101 82 83
-dd:investment	101 83 180
-dd:keep:make:top	99 101 179 23
 dd:keep	99 101 83 179 23
 dd:loss	99 133 83 179 23
 dd:make	99 101 173 179 23 123
-dd:try	99 179 180 23
 dd	99 101 133 75 173 82 83 179 180 23 152 123
-deal	153 162 101
-demand:energy	67 149 79
-demand:like	169 149 79
-demand:past	169 67 79
-demand	169 67 149 79
-developing:even:first:new:since:us	33 51 45
-developing:new:many	33 45 97
-developing:new:top	51 45 97
-discussion:keep	99 179 55 23
 discussion	99 178 179 55 22 23
-dividend	194 61 79
-doesnt:dont:find:go:make:market:real:similar:towards:well	33 173 91
-doesnt:dont:find:make:market:money	169 173 91
-doesnt:dont:find:make:market:new	33 169 173
-doesnt:go:make:real:similar:stock	59 173 91
-doesnt:go:make:real:similar:time:way	33 59 91
-doesnt:go:make:real:similar:today	33 59 173
-doesnt:make:market	33 169 173 91
-doesnt:make:money	169 59 173 91
-doesnt:make:real:similar	33 59 173 91
-done:last	121 123 133
-done	121 123 124 133
-dont:even:find:first:like	33 137 17
-dont:even:find:go:like:way:would	33 17 91
-dont:even:like:find	33 137 17 91
-dont:even:first:get:go:going:like:place:understand:way:weeks:would	33 17 83
-dont:even:first:like:made	137 17 83
-dont:even:like:first	33 137 17 83
-dont:even:found:giving:go:individual:like:stock:way:would	17 83 91
-dont:even:go:like:way:would	33 17 83 91
-dont:even:like:know	137 83 153 91
 dont:even:like:way	33 17 83 153 91
-dont:every:like:really:thats:positions	169 141 83
-dont:find:go:going	33 173 17
-dont:find:go:stock	173 17 91
-dont:find:go	33 173 17 91
-dont:find:like:long	33 169 17
-dont:find:like:made	169 137 17
-dont:find:like:make:money	169 137 91
-dont:find:like:make	33 169 137 91
-dont:find:like:post	169 17 91
 dont:find:like	33 169 137 17 91
-dont:find:make:money	169 137 173 91
 dont:find:make	33 169 137 173 91
 dont:find	33 169 137 173 17 91
-dont:first:get:going:like:since:time	33 141 83
-dont:first:get:going:like:since	33 141 83 55
-dont:first:get:going:like:stock	17 83 55
-dont:first:like:going	33 141 17 83 55
-dont:first:last:like:tldr	137 141 83
-dont:first:like:made:may:see	197 17 83
-dont:first:like:made	197 137 17 83
-dont:first:like:see	197 141 17 83
-dont:get:keep:point	141 83 61
-dont:get:keep	141 83 55 61
-dont:get:like:long:us	33 169 49
-dont:get:like:long:would	33 17 49
-dont:get:like:long	33 169 17 49
-dont:get:like:next	141 49 83 55
-dont:get:like:options	169 141 49
-dont:get:like:positions:shares	169 83 55
-dont:get:like:positions	169 141 83 55
-dont:get:like:really	33 169 141 83
-dont:get:like:remember	33 12 141
-dont:get:like:shares	169 17 83 55
-dont:get:like:time	33 141 49 83
-dont:get:like:us	33 169 49 55
-dont:get:like:would	33 17 49 83
-dont:get:like:years	141 17 49
+dont:first:get:going:like	33 141 17 83 55
 dont:get:like	33 169 12 141 17 49 83 55
-dont:get:long:made	169 17 61
-dont:get:long:make	33 169 61
-dont:get:long:need:way	33 17 61
 dont:get:long	33 169 17 49 61
-dont:get:made:money	169 83 61
-dont:get:made:way	17 83 61
-dont:get:made	169 17 83 61
-dont:get:point	141 49 83 61
-dont:get:selling:way	33 83 61
-dont:get:way	33 17 83 61
 dont:get	33 169 12 141 17 49 83 55 61
-dont:go:going:whole	173 17 83
-dont:go:going	33 173 17 83
-dont:go:market	33 173 83 91
-dont:go:need	33 75 17
-dont:go:next	75 173 83 91
-dont:go:stock	173 17 83 91
-dont:go:us	33 75 91
 dont:go	33 75 173 17 83 91
-dont:going:last:next:positions:price:see:tldr:year	141 173 83
-dont:going:positions	141 173 83 55
-dont:going:price	33 141 173 83
-dont:going:see	141 173 17 83
-dont:going:stock	173 17 83 55
 dont:going	33 141 173 17 83 55
-dont:high:low:market:see	197 173 83
-dont:investors:new:understand	33 121 83
 dont:investors	33 121 49 83 55
-dont:isnt:like:really	33 169 141
-dont:isnt:positions	169 141 173
-dont:isnt	33 169 141 173
-dont:june:like	17 55 153
-dont:june:see	173 17 153
-dont:june:stock	173 17 55
-dont:june	173 17 55 153
-dont:know:like:point	49 83 153
-dont:know:like:us	49 153 91
 dont:know:like	137 49 83 153 91
-dont:know:money:way	83 91 61
-dont:know:money	137 83 91 61
-dont:know:point:way	83 153 61
-dont:know:point	49 83 153 61
-dont:know:way	83 153 91 61
 dont:know	137 49 83 153 91 61
-dont:last:looking	121 141 83
-dont:last:much	141 173 47
-dont:last:stock	173 47 83
-dont:last:tldr	137 141 173 83
-dont:last:years	121 141 47
 dont:last	121 137 141 173 47 83
-dont:like:made:market	197 169 83
-dont:like:made:money	169 137 83
-dont:like:made:shares	169 17 83
 dont:like:made	197 169 137 17 83
-dont:like:may:see:way	17 83 153
-dont:like:money	169 137 83 91
-dont:like:point:thats	141 83 153
-dont:like:point	141 49 83 153
-dont:like:remember:time	33 141 91
-dont:like:remember	33 12 141 91
+dont:like:really	33 169 141 83 91
 dont:like:see	197 141 17 83 153
-dont:like:stock	17 83 55 91
 dont:like:thats	169 141 83 153 91
-dont:like:things	197 169 55
-dont:like:time:us:would	33 49 91
-dont:like:time:would	33 49 83 91
 dont:like:time	33 141 49 83 91
-dont:like:us:well	33 55 91
 dont:like:us	33 169 49 55 153 91
 dont:like:would	33 17 49 83 91
 dont:like	33 197 169 137 12 141 17 49 83 55 153 91
-dont:little:something	121 169 83
-dont:little:understand	121 17 83
-dont:little	121 169 17 83
-dont:look:next	75 141 83
-dont:look	197 75 141 83
-dont:low:market	33 197 173 83
 dont:low	33 197 173 47 83
-dont:made:money	169 137 83 61
-dont:made:small	197 169 61
 dont:made	197 169 137 17 83 61
 dont:make:money	169 137 173 91 61
-dont:make:people	33 173 61
-dont:make:way	33 91 61
 dont:make	33 169 137 173 91 61
-dont:market:money:new:positions:value	169 173 83
-dont:market:money	169 173 83 91
-dont:market:new	33 169 173 83
 dont:market	33 197 169 173 83 91
 dont:money	169 137 173 83 91 61
-dont:much:next	75 141 173 91
-dont:much:stock	173 47 91
 dont:much	75 141 173 47 91
 dont:need	33 75 47 17 61
 dont:new	33 121 169 173 83
-dont:next:price	141 173 49 83
-dont:next:stock:well	173 55 91
-dont:next:stock	173 83 55 91
-dont:next:us	75 49 55 91
 dont:next	75 141 173 49 83 55 91
-dont:options:years	141 47 49
-dont:options	169 141 47 49
 dont:point	141 49 83 153 61
 dont:positions	169 141 173 83 55
 dont:price	33 141 173 49 83
-dont:put	12 173 47
-dont:real:think	173 153 91
-dont:real	33 173 153 91
 dont:see	197 141 173 17 83 153
-dont:sell	121 83 61
-dont:shares:stock	47 17 83 55
 dont:shares	169 47 17 83 55
-dont:shit	137 173 49
-dont:short:stock	47 55 91
-dont:short	33 47 55 91
 dont:stock	173 47 17 83 55 91
-dont:tell	121 141 91
-dont:understand	33 121 17 83
 dont:us	33 169 75 49 55 153 91
 dont:way	33 17 83 153 91 61
-dont:well	33 173 55 91
-dont:whole	173 17 49 83
 dont:years	121 141 47 17 49
 dont	33 121 197 169 137 75 12 141 173 47 17 49 83 55 153 91 61
-due:earnings:even:investors:market:since:year	83 51 89
-due:earnings:go:high:market:side:year	173 83 89
-due:earnings:market:since	83 51 89 123
-due:earnings:market:year	173 83 51 89
-due:go:year	97 173 83 89
 due:market	173 83 51 89 123
 due:year	97 173 83 51 89
 due	97 173 83 51 89 123
-early:may:next:test	9 83 85
-early:may	9 83 147 85
-early:next	9 83 85 91
 early	9 83 147 85 91
-earnings:even:go:good:high:investors:like:made:market:time:year	79 83 89
-earnings:go:high:market:year:world	173 79 89
-earnings:growth	4 79 89
-earnings:high:investors:open	69 79 89
-earnings:high:investors:volume	69 79 83
-earnings:high:investors	69 79 83 89
-earnings:high:market:year	173 79 83 89
-earnings:high:price:stock:two	69 173 83
-earnings:high:stock	69 173 79 83
 earnings:high	69 173 79 83 89
-earnings:increased	73 51 149
-earnings:interest	73 149 89
-earnings:investors:like:open	79 55 89
-earnings:investors:like:time	79 49 83 89
 earnings:investors:like	79 49 83 55 89
-earnings:investors:market:year	79 51 83 89
-earnings:investors:open:since	69 55 89
-earnings:investors:open:stock	69 79 55
-earnings:investors:open	69 79 55 89
-earnings:investors:price:production	69 79 51
-earnings:investors:price:two	69 51 83
 earnings:investors:price	69 79 49 51 83
-earnings:investors:since:test	69 83 55
 earnings:investors:since	69 51 83 55 89
-earnings:investors:stock	69 79 83 55
 earnings:investors	69 79 49 51 83 55 89
-earnings:june:stock:positions	173 55 123
-earnings:june:stock:put	69 173 123
-earnings:june:short:since:stock:week	69 55 123
-earnings:keep:top	99 73 23 179
 earnings:keep	99 73 79 83 55 23 179
-earnings:last:shares	73 79 83 123
 earnings:last	73 173 79 83 123
-earnings:like:market:sector	79 89 123
-earnings:like:market:since	83 89 123
-earnings:like:market	79 83 89 123
-earnings:like:since	83 55 89 123
-earnings:like:still	83 149 89
 earnings:like	79 49 83 149 55 89 123
-earnings:long	73 49 123
-earnings:loss:top	99 51 23 179
 earnings:loss	99 51 83 23 179
 earnings:market:year	173 79 51 83 89
 earnings:market	173 79 51 83 89 123
 earnings:people:sure	99 173 149 23 179
-earnings:people:trading	99 23 179 89
 earnings:people	99 173 149 23 179 89
-earnings:price:today	73 173 49
-earnings:price:two	69 173 51 83
 earnings:price	69 73 173 79 49 51 83
-earnings:q	4 69 51
-earnings:quarter:results	4 79 51
-earnings:quarter	4 73 79 51
-earnings:shares:short	73 55 123
 earnings:shares	73 79 83 55 123
-earnings:short:xb	69 73 55
 earnings:short	69 73 149 55 123
-earnings:since:stock	69 83 55 123
 earnings:since	69 51 83 55 89 123
-earnings:squeeze	4 69 73
-earnings:still	69 83 149 89
 earnings:stock	69 173 79 83 55 123
-earnings:time:today	73 49 89
 earnings:time	73 79 49 83 89
 earnings:today	4 73 173 49 89
 earnings:top	99 73 51 23 179
 earnings	99 4 69 73 173 79 49 51 83 149 55 23 179 89 123
-edit:good:long:market:would	161 117 123
-edit:like:short	161 149 123
-edit:like:tldr	161 137 123
-edit:like	161 137 149 123
 edit	161 137 117 149 123
-either	45 61 101 63
-else:etc	69 173 31
-else:next	173 91 31
-else:stock	69 173 91
 else	69 198 173 91 31
-energy:new	97 40 79
-energy:time	67 101 79
 energy	97 67 101 40 79 149
-enter:first:good:however:major:month:recently:us	161 45 79
-enter:time	45 14 79
-enter	161 45 14 79
-etc:make:money	169 11 173
-etc:make	169 11 173 31
-etc:put:two	69 11 173
 etc	69 169 11 173 31
-even:financial	17 51 91
-even:first:get:go:going:like:way:would:stock	79 17 83
-even:first:get:go:going:like:way:would:using	33 79 17
-even:first:go:going:like:way:would	33 79 17 83
-even:first:go:good:high:new:time:us:way	33 45 79
-even:first:go:way:however	45 79 17
-even:first:go:way:time	33 45 79 83
-even:first:go:way:weeks	33 45 17 83
-even:first:hand	33 17 51
-even:first:like:made	137 79 17 83
+even:first:go:way	33 45 79 17 83
 even:first:like	33 137 79 17 83
-even:first:new:since	33 45 51 83
-even:first:new:us	33 45 79 51
 even:first:new	33 45 79 51 83
-even:first:record:two	17 51 83
-even:first:record	79 17 51 83
-even:first:strong	137 51 83
-even:first:tldr	137 45 83
-even:first:way	33 45 79 17 83
 even:first	33 137 45 79 17 51 83
-even:gains	89 137 51
-even:go:good:high:time:market	89 33 79 83
-even:go:good:high:time:world	89 45 79
-even:go:like:made	89 79 17 83
-even:go:like:market:time:us:way:would	33 79 91
-even:go:like:market:time:way:would	33 79 83 91
-even:go:like:post:stock:way:would	79 17 91
-even:go:like:stock:way:would	79 17 83 91
 even:go:like:time	89 33 79 83 91
 even:go:like:way:would	33 79 17 83 91
 even:go:like	89 33 79 17 83 91
-even:go:time:us:way	33 45 79 91
 even:go:time:way	33 45 79 83 91
 even:go:time	89 33 45 79 83 91
 even:go:way	33 45 79 17 83 91
 even:go	89 33 45 79 17 83 91
-even:however:way:june	45 17 153
-even:however:way:like	79 17 153
-even:however:way:us	45 79 153
 even:like:made	89 137 79 17 83
-even:like:us:way	33 79 153 91
 even:like:way	33 79 17 83 153 91
 even:like	89 33 137 79 17 83 153 91
-even:market:since	89 33 51 83
-even:market:us	33 79 51 91
 even:market	89 33 79 51 83 91
 even:since	89 33 45 51 83
 even:us:way	33 45 79 153 91
 even:us	33 45 79 51 153 91
 even:way	33 45 79 17 83 153 91
 even	89 33 137 45 79 17 51 83 153 91
-ever	89 42 91
-every:get:like:months:shares	169 79 83
-every:isnt	169 45 141
-every:like:market:us	169 79 91
-every:like:market	169 79 83 91
-every:like:months	169 141 79 83
-every:like:thats	169 141 83 91
 every:like	169 141 79 83 91
-every:new:us:world	169 45 79
-every:new	169 45 79 83
 every:time	166 45 141 79 83 91
-every:us	169 45 79 91
 every	166 169 45 141 79 83 91
-everyone:tldr	137 45 173
-everyone	137 2 45 173
-expect:first	67 195 79
-expect	67 173 195 79
-expected	73 185 79
-fact	33 45 31
-far:good:really	161 169 89
-far:good:small:world	169 45 89
-far:good:still	161 45 89
-far:good:us	161 169 45
-far:good	161 169 45 89
 far	161 169 45 54 89
-fast	161 45 63
-fee	194 45 61
-financial:find:like:would	161 91 17
-financial:first	161 17 51
-financial:get:however:like:long:week:would	161 17 123
-financial:going:however:like:shares:stock	101 17 123
-financial:going:since	101 51 123
-financial:going	101 17 51 123
-financial:however:like:place	161 101 17
-financial:investors	101 112 51
-financial:like:market	161 101 91 123
-financial:like:post:stock:would	91 17 123
-financial:like:stock	101 91 17 123
-financial:like:would	161 91 17 123
 financial:like	161 101 91 17 123
-financial:market:price	161 101 51
-financial:market:real	101 91 51 123
 financial:market	161 101 91 51 123
 financial	0 161 101 91 112 17 51 123
-find:first:get:like:long:necessary:place:would	161 33 17
-find:first:like:th	161 137 17
-find:get:like:long:us	161 33 169
-find:gme	137 17 27
-find:go:see	97 173 17
-find:go:someone	97 33 91
 find:go	97 33 91 173 17
-find:however	161 173 17
-find:like:long	161 33 169 17
-find:like:us	161 33 169 91
-find:like:would	161 33 91 17
 find:like	161 33 137 169 91 17
-find:market:well	161 33 91 173
 find:market	161 33 169 91 173
-find:new	97 33 169 173
-find:obvious	97 33 27
-find:positions	169 173 27
-find:see	97 173 17 27
-find:short:similar	33 91 27
-find:short	161 33 91 27
-find:similar:today	33 173 27
-find:similar	33 91 173 27
-find:th	97 161 137 17
-find:thats	97 169 91
-find:thoughts	97 91 27
-find:tldr	161 137 173
-find:using	33 17 27
 find	97 161 33 137 169 91 173 17 27
-first:get:like:low:market:price:would	33 161 79 83
-first:get:like:may:order:place:would	161 17 83
-first:get:like:next:us	161 79 55
+first:get:like:going	33 141 79 17 83 55
 first:get:like:next	161 141 79 83 55
-first:get:like:place:would	33 161 17 83
-first:get:like:play:price:really	33 161 141
-first:get:like:price:really	33 161 141 83
-first:get:like:price:time	33 141 79 83
 first:get:like:price	33 161 141 79 83
-first:get:like:stock	79 17 83 55
-first:get:like:us:well	33 161 55
-first:get:like:us	33 161 79 55
 first:get:like:would	33 161 79 17 83
-first:hand:like:long:using	33 17 147
-first:hand:results	33 51 147
-first:hand	33 17 51 147
-first:hands:long:week:would	161 67 17
-first:hands:time	67 45 83
-first:hands:week	161 67 45 17
-first:hands:would	161 67 17 83
 first:hands	161 67 45 17 83
-first:high:large:time	33 45 147
-first:high:large	33 197 45 147
-first:high:like:low:market:time	33 79 83 147
 first:high:look	197 45 79 83 147
 first:high:market	33 197 79 83 147
 first:high:time	33 45 79 83 147
 first:high	33 197 45 79 83 147
-first:hope:level:like:low:market:long	33 161 147
-first:hope:level:like:low:market:may	161 83 147
-first:however:like:would	161 79 17
-first:however:week	161 45 17
-first:however	161 45 79 17
-first:last:like:made	137 79 83
-first:last:like:tldr	161 137 141 83
-first:like:long:may	161 17 147
-first:like:long	33 161 17 147
-first:like:longer:look:time	141 79 147
-first:like:longer:market	161 79 147
-first:like:longer	161 141 79 147
-first:like:low:market:may	161 197 83 147
-first:like:made:see	197 17 83 147
-first:like:made:using	79 17 147
 first:like:made	197 137 79 17 83 147
 first:like:market	33 161 197 79 83 147
 first:like:may	161 197 17 83 147
 first:like:see	197 141 17 83 147
 first:like:time	33 141 79 83 147
-first:like:using	33 79 17 147
 first:like	33 161 197 137 141 79 17 83 147 55
-first:long:would	33 161 67 17
 first:long	33 161 67 17 147
-first:market:price:selling:us	33 161 51
-first:market:price:selling	33 161 51 83
-first:market:price:us	33 161 79 51
 first:market:price	33 161 79 51 83
-first:market:results	33 79 51 147
-first:market:though	33 161 195
-first:market:volume	161 195 79 83
 first:market	33 161 195 197 79 51 83 147
-first:notice	161 45 147
-first:price:since	33 141 51 83
+first:months	161 195 141 79 83
 first:price	33 161 141 79 51 83
-first:said:year	195 141 79
-first:short:us:since	33 45 55
-first:short:us:week	161 45 55
-first:since:time	33 45 141 83
-first:since:us	33 45 51 55
 first:since	33 45 141 51 83 55
-first:three	195 79 17
-first:time:week	67 45 141
-first:time:would	33 67 79 83
 first:time	33 67 45 141 79 83 147
-first:tldr:week	161 45 141
 first:tldr	161 137 45 141 83
 first:us	33 161 45 79 51 55
 first:week	161 67 45 141 17 55
 first:would	33 161 67 79 17 83
 first:year	195 141 79 51 83
 first	33 161 67 195 197 137 45 141 79 17 51 83 147 55
-flow:like	91 149 79
-flow	51 91 149 79
-follow:please	99 17 179 23
-follow:weekly	99 141 179 23
 follow	99 141 17 179 23
-following:including	161 9 51
 following	161 67 134 9 51
-found:like:would	17 49 83 91
-found:may	196 17 83
 found	196 17 49 83 91
-free:go:high:however:month:new:world	45 173 79
-free:new:last	121 173 79
-fund:hedge	49 62 63
-fund:market:since:stock:talking:time	101 83 117
-fund:market:think	101 117 63
-fund:market	101 83 117 63
-fund:next:time:would	49 83 117
-fund:possible	83 62 63
-fund:time	101 49 83 117
 fund	101 49 83 117 62 63
-funny	169 137 91 90
-future:like:look:market:post	79 147 123
-future:like:look:market:similar	101 147 123
-future:lot:market:similar:see	101 173 147
-future:market:similar	101 173 147 123
 future:market	101 173 79 147 123
 future	101 9 173 79 147 123
-gain:last	47 59 93
 gain:make	99 169 179 23 59
-gain:options	169 47 59
 gain	99 169 47 179 23 59 93 30
-gains:since	89 59 51
-gains	89 137 59 51
-gamestop	16 17 27
-get:great:like:market:shares:positions	169 83 123
-get:great:like:market:shares:post	169 79 123
-get:however:like:would:stock	79 17 123
-get:keep:made:way	79 83 61
+get:going:like:since	33 141 83 55 123
+get:going:like:stock	79 17 83 55 123
+get:going:like:would	33 79 17 83 123
+get:going:like	33 141 79 17 83 55 123
+get:going	33 141 79 17 83 118 55 123
+get:good:like:market:would	33 161 79 83 123
 get:keep	141 79 83 55 61
-get:know:long	49 123 61
-get:know:point	49 83 61
-get:know	49 83 123 61
-get:last:like:look	141 79 83 123
-get:like:long:market:related	33 169 123
-get:like:long:market	33 161 169 123
-get:like:long:shares	169 17 123
-get:like:long:us	33 161 169 49
 get:like:long:would	33 161 17 49 123
 get:like:long	33 161 169 17 49 123
-get:like:made:shares:trades	169 79 17
-get:like:market:months:really	161 169 83
-get:like:market:months:us	161 169 79
-get:like:market:months	161 169 79 83
-get:like:market:new:really	33 169 83
-get:like:market:new	33 169 79 83
-get:like:market:really	33 161 169 83
-get:like:market:shares	169 79 83 123
-get:like:market:us	33 161 169 79
-get:like:market:would	33 161 79 83 123
 get:like:market	33 161 169 79 83 123
-get:like:months:really	161 169 141 83
 get:like:months	161 169 141 79 83
-get:like:next:us	161 79 49 55
 get:like:next	161 141 79 49 83 55
-get:like:please	12 17 123
-get:like:positions:shares	169 83 55 123
-get:like:positions:since:week	141 55 123
-get:like:positions:since	141 83 55 123
 get:like:positions	169 141 83 55 123
 get:like:price:time	33 141 79 49 83
 get:like:price:would	33 161 79 49 83
 get:like:price	33 161 141 79 49 83
 get:like:really	33 161 169 141 83
-get:like:shares:stock:week	17 55 123
-get:like:shares:stock:would	79 17 83 123
-get:like:shares:stock	79 17 83 55 123
-get:like:shares:us	169 79 55
 get:like:shares	169 79 17 83 55 123
-get:like:short:week	161 55 123
-get:like:short	33 161 55 123
-get:like:since	33 141 83 55 123
 get:like:us	33 161 169 79 49 55
 get:like:week	161 141 17 55 123
 get:like:would	33 161 79 17 49 83 123
 get:like	33 161 169 12 141 79 17 49 83 55 123
-get:long:make	33 169 123 61
-get:long:point	161 49 61
-get:long:selling	33 161 61
-get:long:uwmc	161 123 61
 get:long	33 161 169 17 49 123 61
-get:made:way	79 17 83 61
 get:made	169 79 17 83 61
-get:margin	17 49 118
-get:point:selling	161 83 61
 get:point	161 141 49 83 61
-get:selling	33 161 83 61
 get:way	33 79 17 83 61
 get	33 161 169 12 141 79 17 49 83 118 55 123 61
-getting:make:money	11 59 169
-getting	11 161 59 169
-gme:like	36 137 12 17
 gme	34 36 137 12 17 27
-go:goes:high	59 45 173
-go:goes	59 45 173 91
-go:going:stock	173 79 17 83
 go:going	33 173 79 17 83
-go:growth:time	33 79 89
-go:growth	33 75 79 89
-go:high:last:next:price:stock:money	59 173 83
-go:high:market:today	33 173 89
 go:high:market	33 173 79 83 89
-go:high:new:tldr	45 173 83
 go:high:new	33 45 173 79 83
-go:high:price:since:time:way	33 59 83
-go:high:price:stock	59 173 79 83
-go:high:price:time:way	33 59 79 83
 go:high:price	33 59 173 79 83
-go:high:since:time:today	33 59 89
-go:high:since:time:way	33 59 45 83
 go:high:time:way	33 59 45 79 83
 go:high:time	33 59 45 79 83 89
-go:high:today	33 59 173 89
-go:high:world	45 173 79 89
 go:high	33 59 45 173 79 83 89
-go:however:june	45 173 17
-go:however:stock	173 79 17
-go:however	45 173 79 17
-go:look:us	75 45 79
-go:look	75 45 79 83
 go:market	33 173 79 83 89 91
 go:new	33 97 10 45 173 79 83
 go:next:stock	59 173 79 83 91
 go:next	59 75 173 79 83 91
-go:place:way:stock	59 17 83
-go:see	97 173 17 83
 go:stock:way	59 79 17 83 91
 go:stock	59 173 79 17 83 91
-go:thats	97 83 91
 go:time:way	33 59 45 79 83 91
 go:time	33 59 45 79 83 89 91
 go:us	33 75 45 79 91
-go:way:week	59 45 17
 go:way	33 59 45 79 17 83 91
 go:year	97 173 79 83 89
 go	33 97 59 10 75 45 173 79 17 83 89 91
-goes:market:next:stock:think:well	91 173 117
-goes:next:stock:time	91 117 59
-goes:stock	91 173 117 59
 goes:time	73 91 45 117 59
-goes:today	73 173 59
 goes	73 91 45 173 117 59
-going:hand:place	33 101 17
-going:hand	33 101 17 51
-going:however:stock:june	173 17 123
-going:however:like:made:stock	101 79 17
-going:however:stock:see	101 173 17
-going:however:stock:shares	101 79 17 123
-going:inc	101 17 51 83
-going:keep:ride	83 54 55
 going:keep	101 141 79 83 54 55
-going:last:next:price:year	141 173 79 83
-going:last:tldr	141 173 83 123
 going:last	141 173 79 83 123
-going:like:look:since	101 141 83 123
 going:like:look	101 141 79 83 123
-going:like:place	33 101 17 83
-going:like:play:price:really:since:target:time	33 101 141
-going:like:price:time:since	33 101 141 83
-going:like:see	101 141 17 83
 going:like:since	33 101 141 83 55 123
 going:like:stock	101 79 17 83 55 123
 going:like:time	33 101 141 79 83
-going:like:week	141 17 55 123
-going:like:would	33 79 17 83 123
 going:like	33 101 141 79 17 83 55 123
-going:margin	17 51 118
 going:next	141 173 79 83 55
 going:positions	141 173 83 55 123
-going:price:see	101 141 173 83
 going:price:since	33 101 141 51 83
 going:price:year	141 173 79 51 83
 going:price	33 101 141 173 79 51 83
-going:run	79 17 54
-going:see:stock	101 173 17 83
 going:see	101 141 173 17 83
 going:since	33 101 141 51 83 55 123
 going:stock	101 173 79 17 83 55 123
-going:two	173 17 51 83
 going:year	141 173 79 50 51 83
 going	33 101 141 173 79 17 50 51 83 54 55 118 123
-gold:year	188 141 173
-gold	172 188 141 173
-gone	42 101 173
-good:however:look	45 79 123
-good:however	161 45 79 123
-good:like:made:market:rely:world	169 79 89
-good:like:market:made	169 79 83 89
 good:like:market:really	33 161 169 83 89
-good:long:market:since:would	33 117 123
-good:long:market:talking:well:would	33 161 117
-good:long:market:would	33 161 117 123
-good:look	45 79 83 123
-good:market:next:would:talking	161 83 117
-good:market:next:would	161 79 83 117
-good:market:results:time:would	33 79 117
-good:market:since:talking:time:would	33 83 117
-good:market:since:time	33 83 117 89
-good:market:since:would	33 83 117 123
 good:market:since	33 83 117 89 123
-good:market:talking:would	33 161 83 117
-good:market:time:would	33 79 83 117
 good:market:time	33 79 83 117 89
 good:market:would	33 161 79 83 117 123
 good:market	33 161 169 79 83 117 89 123
-good:new:us	33 169 45 79
 good:new	33 169 45 79 83
 good:since:time	33 45 83 117 89
 good:since	33 45 83 117 89 123
 good:time	33 45 79 83 117 89
 good:us	33 161 169 45 79
-good:world	169 45 79 89
 good	33 161 169 45 79 83 117 89 123
-got:much	133 91 141
-got:next:stock	91 55 59
-got:next:time	91 141 49 59
 got:next	91 141 49 55 59
-got:point	133 141 49
-got:since:stock	133 55 59
-got:since	133 141 55 59
-got:stock	133 91 55 59
 got	133 91 141 49 55 59
-great:like:made:market:really:shares	101 169 83
-great:like:market:shares:made	101 169 79 83
-great:like:market:shares:make	101 169 123
-great:long	133 169 123
 great:shares	101 169 79 83 123
-great:something	133 169 83
 great:stock	101 133 79 83 123
 great	101 133 169 79 83 123
-green:like:made	89 83 17
-growth:investors:like:market:time:made	101 79 89
-growth:investors:like:market:really:since:time	33 101 89
-growth:quarter	96 4 79
-growth:results	33 4 79
-growth:time	33 101 79 89
-growth:today	33 4 89
-growth:us	96 33 75 79
-growth:year	96 79 89
 growth	96 33 4 101 134 75 79 89
-guys	27 2 83
-hand:like:see	101 17 147
-hand:like	33 101 17 147
-hand:market:pretty	33 101 63
 hand:market	33 101 51 147 63
-hand:post	17 147 63
 hand	33 101 17 51 147 63
-handle	45 198 141
-hard:next	9 91 55
-hard	9 91 101 55
 hedge	106 171 112 49 62 63
 heres	160 161 164 169 83
-high:investors:price:test	33 69 83
-high:investors:price	33 69 79 83
-high:investors:since	89 33 69 83
 high:investors	89 33 69 79 83
-high:june	69 45 173
-high:large:major:way	33 171 45
-high:large:market:thanks	33 171 147
-high:large:market	33 197 171 147
 high:large	33 197 171 45 147
-high:last:next:price:see	173 83 85
-high:level:market:may	171 83 147
-high:level:market:price:test:way	33 171 83
-high:like:low:may	197 83 147 185
-high:like:low:share	79 83 185
 high:like:low	33 197 79 83 147 185
-high:like:made:market:time	89 79 83 147
 high:like:market:time	89 33 79 83 147
 high:like:market	89 33 197 79 83 147
 high:like	89 33 197 79 83 147 185
-high:low:market:see	197 173 83 147
-high:low:market:similar	33 173 147
 high:low:market	33 197 173 79 83 147
-high:low:value	173 83 185
 high:low	33 197 173 79 83 147 185
-high:major:market:price:way	33 171 79
-high:major:price:stock	69 171 79
-high:major:price:test	33 69 171
-high:major:price	33 69 171 79
-high:major:since	33 69 45
-high:major:way	33 171 45 79
 high:major	33 69 171 45 79
-high:make:price:stock	171 173 59
-high:make:price:towards	33 171 173
-high:make:price:way	33 171 59
-high:market:open	89 171 79
-high:market:price:stock	171 173 79 83
-high:market:price:way	33 171 79 83
 high:market:price	33 171 173 79 83
-high:market:side	89 171 173 83
-high:market:spy	89 171 147
-high:market:thing	197 83 147 88
 high:market	89 33 197 171 173 79 83 147 88
 high:may	197 171 83 147 85 185
-high:open	89 69 171 79
-high:price:since:volume	69 83 59
-high:price:since	33 69 83 59
-high:price:stock:test	69 171 83
-high:price:stock:volume	69 79 83 59
 high:price:stock	69 171 173 79 83 59
-high:price:test:thanks	33 171 85
 high:price:test	33 69 171 83 85
 high:price:way	33 171 79 83 59
-high:price:week	69 85 59
 high:price	33 69 171 173 79 83 85 59
-high:put:week	69 185 59
 high:put	69 171 173 185 59
 high:see	197 173 83 147 85
-high:similar:time	33 147 59
-high:similar	33 173 147 59
-high:since:still	89 69 45 83
 high:since:time	89 33 45 83 59
-high:since:week	69 45 59
 high:since	89 33 69 45 83 59
-high:spy	89 171 147 85
-high:thanks	33 171 147 85
 high:time	89 33 166 45 79 83 147 59
-high:volatility	166 171 88
 high:way	33 171 45 79 83 59
 high:week	69 45 85 185 59
 high	89 33 197 69 166 171 45 173 79 83 147 85 88 185 59
-highs:last:new:share	121 83 79
-history	17 121 79
-hit	97 85 79
-holding	59 36 101 46
-however:june:like	17 153 123
-however:june:think	173 153 123
-however:june:tldr	45 173 123
-however:june:week	45 17 123
 however:june	45 173 17 153 123
-however:like:market:price	161 101 79
-however:like:market	161 101 79 123
-however:like:may	161 17 153
-however:like:see	101 17 153
-however:like:us	161 79 153
-however:like:would	161 79 17 123
 however:like	161 101 79 17 153 123
-however:look	101 45 79 123
-however:lot:low:market:price:well	161 101 173
-however:major	161 101 45 79
-however:market:price	161 101 173 79
 however:market	161 101 173 79 123
-however:month:tldr	161 45 173
-however:month	161 45 173 79
-however:see	101 173 17 153
 however:stock	101 173 79 17 123
-however:think	101 173 153 123
-however:tldr	161 45 173 123
-however:us	161 45 79 153
-however:way	45 79 17 153
-however:week	161 45 17 123
 however	161 101 45 173 79 17 153 123
-huge:make:place:play:price:real:similar:since:time	33 101 59
-important:point	161 101 133
-important:since	33 101 133
-important	33 161 101 133
-inc:may:place:two	9 17 83
-inc:place	101 9 17 83
-inc:see	97 101 17 83
-inc:two	9 17 83 51
+idea	161 33 75 55 31
 inc	97 100 101 9 17 82 83 51
-include:like:simple	161 101 169
-include:like:things	101 169 55
-include:like	161 101 169 55
-include:market	161 101 169 51
-include:since	101 51 55
 include	161 101 169 51 55
-incredibly	9 169 45
-information:like:made:post	169 17 147
-information:like:made	169 17 147 89
-information:like:see	153 17 147
-infrastructure	164 101 149 79
-initial:new	33 51 121
-initial	33 51 147 121
-interest:like:still	161 149 89
-interest:long	161 73 61
-interest:people	149 89 61
-interest:rate	73 89 61
-interest:short	161 73 149
+increased	97 73 171 51 117 149 185
 interest	161 73 149 89 61
-interested	121 67 83
-inverse:long:time	49 147 117
-inverse	49 147 116 117
-invest:new	121 79 51
-invest:position	121 51 117
-invest:results	79 51 117
 invest	121 79 51 117 153
-investment:made	101 137 83
-investment:make	101 137 31
-investment:market:since:position	101 51 117
-investment:next	83 117 31
-investment:realized	137 51 117
-investment:since	101 83 51 117
 investment	97 2 101 137 83 51 117 180 31
-investor	10 83 164 101
-investors:like:since:things	89 101 55
+investors:like:market:time	89 33 101 79 83
 investors:like:since	89 33 101 83 55
-investors:like:time:today	89 33 49
 investors:like:time	89 33 101 79 49 83
 investors:like	89 33 101 79 49 83 55
-investors:major:price:since	33 101 69
-investors:major:price:stock	101 69 79
 investors:market:since	89 33 101 51 83
 investors:market	89 33 101 79 51 83
 investors:new	33 79 51 83 121
-investors:position	101 51 121
 investors:price:since	33 101 69 51 83
-investors:price:stock	101 69 79 83
 investors:price	33 101 69 79 49 51 83
-investors:sell	89 83 121
-investors:since:stock:xb	101 69 55
-investors:since:stock	101 69 83 55
-investors:since:test	33 69 83 55
 investors:since	89 33 101 69 51 83 55
 investors:stock	101 69 79 83 55
-investors:xb	101 69 55 121
 investors	89 33 101 69 79 112 49 51 83 55 121
-isnt:market:money:world	169 173 63
-isnt:market	33 169 173 63
-isnt:new:us	33 169 45
-isnt:new:world	169 45 173
-isnt:new	33 169 45 173
-isnt:play	33 141 63
-isnt:time	33 45 141
-isnt:tldr	45 141 173
-isnt:world	169 45 173 63
 isnt	33 169 45 141 173 63
-issue	185 45 61
-ive:week	67 141 55
-ive:year	96 97 141
 ive	96 97 67 141 55
-june:like	17 55 153 123
-june:shares	194 17 55 123
-june:short:since:week	69 45 55 123
-june:stock:two	69 173 17
-june:stock:week	69 17 55 123
 june:stock	69 173 17 55 123
-june:us	45 55 153
 june:week	69 45 17 55 123
 june	194 69 45 173 16 17 55 153 123
-keep:made:point	101 83 61
-keep:made	101 79 83 61
-keep:make:people	99 179 23 61
 keep:make	99 101 179 23 61
-keep:point	101 141 83 61
 keep:top	99 101 73 179 23
 keep	99 101 73 141 79 83 179 55 54 23 61
-know:like:long	123 49 147
-know:like:made	137 83 147
-know:like:make	137 123 91
-know:like:market:similar	123 147 91
-know:like:market	123 83 147 91
-know:like:time	49 83 147 91
-know:like:tldr	137 123 83
-know:like:would	123 49 83 91
 know:like	137 123 49 83 147 153 91
-know:long	123 49 147 61
-know:made:making	83 147 61
-know:made:money	137 83 61
-know:made	137 83 147 61
-know:make:money	137 91 61
-know:make	137 123 91 61
 know	132 137 123 49 83 147 153 91 61
 last:like:tldr	161 137 141 83 123
 last:like	161 137 141 79 83 123
-last:long:short	161 73 123
-last:long	161 133 73 123
-last:look:price	141 79 83 85
-last:look:week	141 85 123
 last:look	141 79 83 85 123
-last:low:past:shares:stock:volume	79 47 83
-last:low:stock	173 79 47 83
-last:low:volume	161 79 47 83
 last:low	161 173 79 47 83
-last:make:money	137 59 173
-last:make:stock	59 173 123
-last:make:tldr	137 173 123
-last:make	137 59 173 123
 last:market	161 173 79 174 83 123
-last:money:stock	133 59 173 83
-last:money:tldr	137 173 83
 last:money	133 137 59 173 83
 last:months	161 141 79 174 83
-last:much:stock	133 173 47
-last:much	133 141 173 47
 last:new	173 79 83 121 93
-last:next:play:price:time	59 141 79
-last:next:play:price:volume	161 59 79
-last:next:play:price:week	161 59 141
-last:next:price:play	161 59 141 79
-last:next:price:see	141 173 83 85
-last:next:price:tldr	161 141 173 83
-last:next:price:volume	161 59 79 83
-last:next:price:week	161 59 141 85
-last:options	59 141 47
-last:point:since:year	133 141 83
-last:point:took	161 133 83
-last:point	161 133 141 83
-last:price:though	161 73 173
 last:price	161 73 59 141 173 79 83 85
-last:return	137 59 79
-last:sell	59 83 121
-last:share	79 83 121 123
-last:shares:short	73 47 123
-last:shares:stock	79 47 83 123
 last:shares	73 79 47 83 123
-last:short	161 73 47 123
-last:since:stock	133 59 83 123
-last:since:week	59 141 123
 last:since	133 59 141 83 123
-last:something	133 73 83 121
-last:stock:volume	59 79 47 83
-last:stock:x	59 79 123
 last:stock	133 59 173 79 47 83 123
-last:technical:year	141 83 93
-last:technical	161 141 83 93
 last:tldr	161 137 141 173 83 123
 last:volume	161 59 79 47 83
 last:week	161 59 141 85 123
 last:year	133 141 173 79 83 93
 last	161 133 73 137 59 141 173 79 47 174 83 85 121 123 93
-later	17 75 117
-less:people	89 61 33
-less:small	89 45 61
-less:way	45 61 33
-less	89 45 61 33
-let	123 141 182
-lets	48 123 141 190
-level:long:major:market:price	161 33 171
-level:long:market:may	161 171 147
-level:market:long	161 33 171 147
-level:market:low	161 33 83 147
-level:market:may	161 171 83 147
-level:market:play	161 33 63
-level:market:price	161 33 171 83
-level:market:sometimes	33 83 63
-level:market:thing	83 147 63
-life	33 75 83 69
-like:link:may:see:made	17 147 197
-like:long:market:post	147 169 123
-like:long:market:similar	147 33 123
 like:long:market	147 33 161 169 123
-like:long:post	17 147 169 123
-like:long:time	147 33 49
 like:long	17 147 33 161 169 49 123
 like:look:market	147 197 79 83 101 123
-like:look:weekly	141 147 123
 like:look	141 147 197 79 83 101 123
-like:lot:market:low	147 161 83 101
 like:low:market:price	33 161 79 83 101
 like:low:market:time	147 33 79 83 101
 like:low:market	147 33 161 197 79 83 101
 like:low:may	147 161 185 197 83
 like:low	147 33 161 185 197 79 83 101
-like:made:make	137 169 101
-like:made:market:post	147 169 79
-like:made:market:really:things	169 89 101
-like:made:market:really	169 83 89 101
-like:made:market:things	169 197 89 101
 like:made:market:time	147 79 83 89 101
 like:made:market	147 169 197 79 83 89 101
-like:made:post	17 147 169 79
 like:made:see	17 147 197 83 101
-like:made:shares:stock	17 79 83 101
 like:made:shares	17 169 79 83 101
 like:made	137 17 147 169 197 79 83 89 101
-like:make:market:post	169 91 123
 like:make:market	33 169 91 101 123
 like:make	137 33 169 91 101 123
-like:market:mean	33 161 169 197
-like:market:post:time	147 79 91
 like:market:post	147 169 79 91 123
-like:market:seems	147 161 89
-like:market:similar:time	147 33 91 101
+like:market:really:would	33 161 38 83 91
+like:market:really	33 161 38 169 83 89 91 101
 like:market:similar	147 33 91 101 123
-like:market:spy	147 89 123
 like:market:stock	79 83 91 101 123
 like:market:time	147 33 79 83 89 91 101
-like:market:understand:would	33 38 83
-like:market:us:would	33 161 79 91
 like:market:us	33 161 169 79 91
 like:market:would	33 161 38 79 83 91 123
 like:market	147 33 161 38 169 197 79 83 89 91 101 123
 like:may:see	17 147 153 197 83
-like:may:week	17 161 185
 like:may	17 147 153 161 185 197 83
 like:money	137 149 169 83 91
-like:next:really	141 161 83 91
-like:next:us:well	161 55 91
-like:next:us:would	161 49 79 91
 like:next:us	161 49 55 79 91
 like:next:would	161 49 79 83 91
 like:next	141 161 49 55 79 83 91
-like:options:point:price:time	141 49 101
-like:options:really	141 169 101
-like:options	141 169 49 101
-like:overall:really:price	141 161 101
 like:place	17 33 161 83 101
-like:play:price:really	141 33 161 101
-like:play:price:time	141 33 79 101
-like:point:price:really	141 161 83 101
-like:point:price:time	141 49 83 101
 like:point:price	141 161 49 83 101
-like:point:see	141 153 83 101
-like:point:us	153 161 49
 like:point	141 153 161 49 83 101
-like:post:shares	17 169 79 123
-like:post:stock:would	17 79 91 123
 like:post	17 147 169 79 91 123
 like:price:really	141 33 161 83 101
 like:price:time	141 33 49 79 83 101
 like:price	141 33 161 49 79 83 101
-like:put	12 185 123
-like:really:remember:time:since	141 33 89
 like:really:time	141 33 83 89 91 101
-like:really:would	33 161 38 83 91
 like:really	141 33 161 38 169 83 89 91 101
-like:related:us	153 33 169
-like:related	153 33 169 123
-like:remember:time	141 33 89 91
 like:remember	12 141 33 89 91
 like:see	141 17 147 153 197 83 101
-like:share	185 79 83 123
 like:shares	17 169 55 79 83 101 123
-like:short:still	149 161 91
-like:short:stock	55 91 123
-like:short:well	33 161 55 91
 like:short	149 33 161 55 91 123
 like:since:time	141 33 83 89 101
 like:since	141 33 55 83 89 101 123
 like:still	149 161 83 89 91
 like:stock:would	17 79 83 91 123
 like:stock	17 55 79 83 91 101 123
-like:stocks:us	153 169 49
-like:stocks	153 169 49 89
 like:things	169 55 197 89 101
-like:think:thoughts	185 91 123
 like:think	153 185 91 101 123
 like:time:would	33 49 79 83 91
-like:time:year	141 79 83 89
 like:time	141 147 33 49 79 83 89 91 101
-like:trying	17 33 185
 like:us:would	33 161 49 79 91
 like:us	153 33 161 169 49 55 79 91
-like:uwmc	161 106 123
-like:value	169 185 83
 like:week	141 17 161 55 185 123
 like:well	33 161 55 91 101
 like:would	17 33 161 38 49 79 83 91 123
-like:yolo	169 49 106
 like	137 12 141 17 147 149 153 33 161 36 38 169 49 55 185 186 197 79 83 89 91 101 106 123
-line:may:next	9 161 85
-line	40 9 161 85
-link:market:thing	197 147 63
-link:see	197 17 147 153
 link	197 14 17 147 153 63
-list:shares	73 194 101
-list:top	73 101 97
-list	73 194 101 97
 little	169 17 83 121 154
-long:made	169 17 147 61
-long:make:market:towards	33 171 123
-long:make:market	33 169 171 123
-long:make:need	33 61 31
-long:make:way	33 171 61
 long:make	33 169 171 123 61 31
-long:making	133 147 61
-long:market:spy	171 147 123
-long:market:stock	171 117 123
-long:market:time	33 147 117
 long:market	33 161 169 171 147 117 123
-long:may	161 171 17 147
-long:money	133 169 61
-long:need	33 17 61 31
-long:next:would	161 49 117
-long:next:years	49 117 31
-long:next	161 49 117 31
-long:options	169 171 49
-long:point	161 133 49 61
-long:price:though	33 161 73
-long:price:today	33 73 49
 long:price	33 161 73 171 49
-long:shares	73 169 17 123
-long:short	33 161 73 123
-long:since:stock	133 117 123
-long:since	33 133 117 123
-long:something	133 73 169
-long:stock:would	17 117 123
 long:stock	133 171 17 117 123
-long:stocks	67 169 49
-long:term	161 123 31
-long:time:would	33 67 49 117
-long:time:xb	73 147 117
 long:time	33 67 73 49 147 117
-long:way	33 171 17 61
-long:would:years	17 49 117
 long:would	33 161 67 17 49 117 123
-long:years	17 49 117 31
 long	33 161 67 133 198 73 169 171 17 49 147 117 123 61 31
-look:mostly	101 75 83 147
 look:next	75 141 79 83 85
-look:since:time	101 45 141 83
-look:since:tldr:week	45 141 123
-look:since:tldr	45 141 83 123
 look:since	101 45 141 83 123
-look:spy	147 85 123
-look:week	45 141 85 123
 look	197 101 75 45 141 79 83 147 85 123
-looking:see	27 83 141
-looking:share	27 121 83
-looking	27 121 83 141
-loss:price	83 51 94
-loss:still	133 83 158
 loss:yolo	99 169 179 23 158
 loss	99 133 169 83 51 179 23 94 158
-lot:low:market:price	161 101 173 83
-lot:low:market:see	101 173 83 147
 lot:market:low	161 101 173 83 147
-low:market:price:well	33 161 101 173
 low:market:price	33 161 101 173 79 83
 low:market:see	197 101 173 83 147
-low:market:similar	33 101 173 147
 low:market	33 161 197 101 173 79 83 147
-low:put	173 47 185
 low:stock	101 173 79 47 83
-low:think	101 173 185
 low	33 161 197 101 173 79 47 83 147 185
-lower:market	33 195 117
 lower	33 195 9 117 61
-made:make:money	137 169 61
-made:make	101 137 169 61
-made:sell	83 89 61
-made:small	197 169 89 61
 made	197 101 137 169 79 17 83 147 89 61
-major:market:price:play	33 161 101 79
-major:price:short	33 161 69
-major:price:stock	69 101 171 79
-major:price:volume	161 69 79
+major:market:price	33 161 101 171 79
 major:price	33 161 69 101 171 79
-major:short:still:week	161 69 45
-major:short	33 161 69 45
-major:since	33 69 101 45
-major:time	33 101 45 79
-major:us	33 161 45 79
 major	33 161 69 101 171 45 79
-make:market:options	101 169 171
-make:market:positions	169 123 173
-make:market:price:stock	101 171 173
-make:market:price	33 101 171 173
-make:market:real:similar:stock:think:well	101 173 91
-make:market:real:similar:think	101 123 173 91
-make:market:real:similar:towards	33 123 173 91
-make:market:real:similar:well	33 101 173 91
 make:market:similar	33 101 123 173 91
-make:market:stock:towards	123 171 173 91
 make:market:stock	101 123 171 173 91
-make:market:towards:way	33 171 91
 make:market:towards	33 123 171 173 91
 make:market	33 101 169 123 171 173 91
-make:money:put	11 173 59
-make:money:small	169 11 61
-make:money:way	59 91 61
 make:money	137 169 11 173 59 91 61
-make:next	173 59 91 31
-make:options	101 169 171 59
 make:people	33 99 173 179 23 61
-make:pretty	33 101 11
-make:price:real:similar:stock	101 173 59
-make:price:similar	33 101 173 59
-make:price:stock	101 171 173 59
 make:price	33 101 171 173 59
-make:put:stock	123 171 173 59
 make:put	11 123 171 173 59
-make:real:similar:since:stock	101 123 59
-make:real:similar:since	33 101 123 59
 make:real:similar:stock	101 123 173 59 91
-make:real:similar:time	33 101 59 91
-make:see	101 11 173
 make:similar	33 101 123 173 59 91
-make:someone	33 91 31
 make:stock	101 123 171 173 59 91
 make:sure	99 173 179 23 91
-make:thoughts	123 91 31
 make:way	33 171 59 91 61
 make	33 99 101 137 169 11 123 171 173 59 179 23 91 60 61 31
-makers:market	63 171 79
-makers:play	63 59 79
-makers:put	63 59 171
-makers	63 59 171 79
-making:point	133 141 83 61
-making:selling	51 83 61
-making:since:year	133 141 51 83
 making	133 141 51 83 147 61
-many	33 45 97 55
-margin	17 51 118 49
 market:may	147 161 171 197 83
-market:mentions	33 169 174
-market:money:post	169 63 91
-market:money:something	169 63 83
-market:money:think	173 63 91
 market:money	169 173 63 83 91
-market:new:us	33 169 51 79
-market:new:world	169 173 79
+market:months	161 169 174 195 79 83
 market:new	33 169 173 51 79 83
-market:next:stock:time:would	79 83 91 117
 market:next:stock	173 79 83 91 117
-market:next:well:would	161 91 117
-market:next:well	161 173 91 117
 market:next:would	161 79 83 91 117
 market:next	161 173 79 83 91 117
 market:play	161 33 63 79 101
-market:position:stock	171 101 117
-market:position	171 51 101 117
-market:positions	169 173 83 123
-market:post:thoughts	63 91 123
-market:post:world	169 63 79
 market:post	147 169 63 79 91 123
 market:price:stock	171 173 79 83 101
 market:price	161 33 171 173 51 79 83 101
-market:prices:time:results	147 79 117
-market:put:stock:towards	171 173 123
-market:put:think	173 63 123
-market:put	171 173 63 123
-market:real:us	33 51 91
 market:real	33 173 51 91 101 123
-market:results:since	33 51 117
-market:results:time	147 33 79 117
 market:results	147 33 51 79 117
 market:short	20 161 33 91 123
+market:side	171 173 83 89 101
 market:similar	147 33 173 91 101 123
-market:since:stock:think	101 117 123
-market:since:stock	83 101 117 123
-market:since:talking:time:well	33 101 117
 market:since:time	33 83 89 101 117
 market:since	33 51 83 89 101 117 123
-market:spy	147 171 89 123
-market:stock:think:well	173 91 101 117
-market:stock:think:would	91 117 123
 market:stock:think	173 91 101 117 123
 market:stock:time	79 83 91 101 117
 market:stock:would	79 83 91 117 123
 market:stock	171 173 79 83 91 101 117 123
-market:talking:time	33 83 101 117
-market:talking:well	161 33 101 117
 market:talking	161 33 83 101 117
 market:thing	147 63 197 83 88
 market:think	173 63 91 101 117 123
-market:thinks	173 89 117
-market:though	161 33 173 195
-market:time:well:would	33 91 117
-market:time:well	33 91 101 117
 market:time:would	33 79 83 91 117
-market:time:xb	147 101 117
 market:time	147 33 79 83 89 91 101 117
 market:towards	33 171 173 195 91 123
 market:us	161 33 169 51 79 91
-market:uwmc	161 195 123
-market:volatility	171 63 88
 market:way	33 171 79 83 91
-market:well:would	161 33 91 117
 market:well	161 33 173 91 101 117
 market:world	169 173 63 79 89
 market:would	161 33 38 79 83 91 117 123
 market:year	173 51 195 79 83 89
-market:yesterday	161 63 91
 market	147 20 161 33 38 169 171 173 174 51 63 195 197 79 83 88 89 91 101 117 123
-massive:since:time:next	59 117 141
-materialize	17 59 197
-may:next	161 9 83 85
-may:note	153 171 85
-may:period	161 9 147
-may:place	161 9 17 83
-may:price	161 171 83 85
 may:see	153 197 17 83 147 85
-may:support:test	9 171 83
-may:support	161 9 171 83
-may:test:unity:virgin:vss	6 8 9
 may:test	6 8 9 171 83 85
 may:vix	196 197 171 147 85
-may:way	153 171 17 83
-may:week	161 17 85 185
 may	161 98 153 196 197 6 8 9 171 17 178 83 147 85 22 185
-meeting	17 67 173
-might:price:time	73 101 33
-might:price:today	73 173 33
 million	0 33 79 49 51
-missed	67 83 133 54
-money:past	169 11 83
-money:people	173 149 61
-money:point	133 83 61
-money:put	11 59 173 63
-money:something	133 169 83 63
-money:still:stock	133 83 91
-money:still	133 83 149 91
 money:stock	133 59 173 83 91
-money:sure	173 149 91
-money:thoughts	133 91 63
-money:two	11 173 83
-money:way	59 83 91 61
 money	133 137 169 11 59 173 83 149 91 61 63
 month:new	45 173 79 51 93
-month:price	161 173 79 51
-month:us	161 45 79 51
 month	161 45 173 79 51 93
-months:year	195 141 79 83
 months	161 195 169 141 174 79 83
-morning:spy	64 171 85
-morning	64 171 85 47
-movement	33 10 161 188
-much:stock	133 173 47 91
 much	133 75 141 173 47 86 91
-need:next	75 85 31
-need:years	47 17 31
 need	33 75 47 17 85 61 31
-never:person	12 49 117
-never:time	14 49 117
 never	12 14 49 117 27
-new:technical	10 83 93
-new:thats	97 169 83
 new:us	33 169 45 79 51
-new:world	169 45 173 79
 new:year	97 173 79 51 83 93
 new	33 97 40 169 10 45 173 79 51 83 121 93
-news:since	33 83 55 89
 news	32 33 83 55 89
-next:place	161 9 59 83
-next:play:week	161 59 141 58
 next:play	161 59 141 79 58
-next:price:today	59 173 49
 next:price	161 59 141 173 79 49 83 85
-next:put	59 173 58
-next:since:stock:time	59 83 117
-next:since:stock	59 83 117 55
-next:since:time	59 141 83 117
 next:since	59 141 83 117 55
 next:stock:time	59 79 83 117 91
-next:stock:well	173 117 55 91
 next:stock	59 173 79 83 117 55 91
-next:supply	173 79 83 31
-next:support:technical	161 9 141 83
 next:support	161 9 141 79 83
-next:test	9 83 85 55
 next:time:would	79 49 83 117 91
-next:time:years	141 49 117
 next:time	59 141 79 49 83 117 91
-next:today	9 59 173 49
 next:us	161 75 79 49 55 91
 next:week	161 59 141 85 55 58
 next:well	161 173 117 55 91
 next:would	161 79 49 83 117 91
 next:years	141 49 117 124 31
-next:youtube	74 75 49
 next	161 9 74 75 59 141 173 79 49 83 85 117 55 58 91 124 31
-note:options	169 171 141
-note:price	171 141 85
-note:reading	169 171 85
-note:see	141 85 153
-note:thats	169 141 153
 note	169 171 141 85 153
-number	17 83 45 174
-objective	169 83 9
-obvious:thing:thoughts	27 97 63
-obvious	33 27 97 63
-oil	67 132 133
-open:stock:test	69 171 55
-open:stock	69 171 79 55
 open	69 171 79 55 89 26
-opening	161 2 158
-part	9 169 173
-past:shares	169 47 79 83
+options:price	101 171 141 49 59
+options	101 169 171 141 47 49 59
 past	67 169 11 47 79 83
 people	33 99 173 179 149 23 89 61
-perhaps	97 91 61
-period	161 147 69 9
-place:price:time	33 101 83 59
 place:price	33 161 101 83 59
-place:stock	101 17 83 59
-place:today	33 9 59
-place:way	33 17 83 59
-place:week	161 17 59
 place	33 161 101 9 17 83 59
-play:price:time:way	33 79 59
 play:price:time	33 101 141 79 59
 play:price	33 161 101 141 79 59
-play:put	58 59 63
 play	33 161 101 141 79 58 59 63
-please:read:wsb	168 179 23
-please:read	99 168 179 23
 please	99 168 12 17 179 23 123
-point:since	101 133 141 83
 point	161 101 133 141 49 83 153 61
-portfolio:year	79 114 51
 portfolio	79 114 51 117 154
-position:reach	101 17 121
-position:see	101 11 17
-position:since:stock	101 133 117
-position:since	101 133 51 117
 position:stock	101 133 171 17 117
-position:two	11 17 51
-position:xb	101 11 117 121
-position:years	17 117 121
 position	101 133 171 11 17 51 117 121
-positions:see	141 173 83 27
-positions:short	123 55 27
-positions:similar	123 173 27
-positions:thought	123 83 27
 positions	169 123 141 173 83 55 27
-possible	153 83 62 63
 post	160 169 42 91 79 17 147 123 63
-posting	168 75 79
-potential:price	73 59 51
-potential	112 73 59 51
 power	67 101 118 184 185
-pretty	33 11 101 63
-price:real:since	33 101 51 59
 price:real	33 101 173 51 59
-price:resistance:week	161 85 59
-price:resistance	161 171 85 59
 price:see	101 141 173 83 85
-price:short	33 161 69 73
-price:since:stock	101 69 83 59
 price:since:time	33 101 141 83 59
-price:since:week	69 141 59
 price:since	33 101 69 141 51 83 59
-price:squeeze	69 73 59
 price:stock	101 69 171 173 79 83 59
-price:target:time	33 101 73 141
 price:target	33 101 73 141 85
-price:though	33 161 73 173
-price:time:today	33 73 49 59
 price:time	33 101 73 141 79 49 83 59
 price:today	33 73 173 49 59
 price:us	33 161 79 49 51
-price:volume:week	161 69 59
 price:volume	161 69 79 83 59
 price:week	161 69 141 85 59
-price:xb	101 69 73
 price	33 161 101 69 73 171 141 173 79 49 51 83 85 59 94
-private	164 45 79
-program	9 130 51 79
-public	96 153 27
-put:since:stock:week	69 59 123
-put:stock:volume	69 59 47
 put:stock	69 59 171 173 47 123
-put:think:thoughts	185 123 63
-put:think	173 185 123 63
 put:week	69 59 185 58 123
 put	69 59 171 11 12 173 47 185 58 123 126 63
-puts	64 59 124
 q	194 195 4 69 51 185 27
-quarter:top	97 73 51
-quarter:us:year	96 79 51
-quarter:year	96 97 79 51
 quarter	96 97 4 73 79 51
-rate	73 89 195 61
 read	161 99 168 170 179 23 91
 real:since	33 101 59 51 123
 real:think	101 91 173 153 123
-real:us	33 91 51 153
-real:way	33 59 91 153
 real	33 101 59 91 173 51 153 123
-received	17 51 61
-recommend	121 99 179 23
-regime	146 147 197
-report	97 69 55
-required	16 45 101
 results	33 4 79 51 147 117
-return	137 59 118 79
-revenue	96 33 185 97
+ride	68 69 83 117 54 55 182
 right	161 138 108 17 56 89
-rotation	89 122 123
-run:time:would	67 79 49
-run:time	67 79 49 59
-run:way	79 17 59
-run:week	67 17 59
-run:would	67 79 17 49
 run	67 79 17 49 54 59
-see:similar:xb	101 147 27
-see:similar	101 173 147 27
-see:target	101 141 85 27
-see:thats	97 141 83 153
+said	195 9 173 141 79
 see:thing	97 197 83 147 27
-see:thought	101 83 27
-see:top	97 101 153
-see:two	11 173 17 83
-see:using	17 147 27
-see:xb	101 11 147 27
-see:year	97 141 173 83
 see	97 197 101 11 141 173 17 83 147 85 153 27
-sell:time	83 89 59
-sell:way	83 59 61
 sell	121 83 89 59 61
-selling:short	33 161 27
-selling:use	33 83 27
-selling:view	161 83 27
 selling	33 161 144 83 51 27 61
-set	17 83 164
-share:thoughts	123 185 27
-share:use	79 83 27
 share	121 130 123 79 83 185 27
-shares:short:stock	47 55 123
-shares:short	73 47 55 123
-shares:something	73 169 83
 shares:stock	101 79 47 17 83 55 123
-shares:strong	194 83 123
-shares:three	73 79 17
 shares	194 101 73 169 79 47 17 83 55 123
-short:similar:thoughts	27 123 91
-short:similar	33 27 123 91
-short:since:test	33 69 55
 short:since	33 69 123 45 55
 short:still	161 69 45 149 91
 short:stock	69 123 47 55 91
-short:time	33 73 45 91
-short:today	33 27 73
 short:us	33 161 45 55 91
-short:volume	161 69 47
 short:week	161 69 123 45 55
-short:xb	69 27 73 55
-short:yesterday	161 73 91
 short	33 161 69 27 73 123 45 47 20 149 55 91
-similar:target	33 101 27
-similar:thought	101 27 123
 similar:time	33 101 59 91 147
-similar:today	33 27 59 173
-similar:using	33 27 147
 similar	33 101 27 59 91 173 147 123
-since:still:stock	69 133 83
-since:still:year	133 83 89
 since:still	69 133 45 83 89
-since:stock:time	101 59 83 117
-since:stock:week	69 59 55 123
-since:stock:well:xb	101 117 55
-since:stock:xb	101 69 117 55
 since:stock	101 69 133 59 83 117 55 123
 since:time	33 101 59 45 141 83 117 89
 since:week	69 59 45 141 55 123
-since:well	33 101 117 55
 since:year	133 141 51 83 89
 since	33 101 69 133 59 45 141 51 83 117 55 89 123
 small	197 169 11 45 89 61
-sold	64 67 83
-someone:thoughts	97 91 31
 someone	33 97 70 91 31
 something	196 133 72 73 169 83 121 63
 space	9 152 153 30 31
 spy	64 170 171 146 147 84 85 89 123
-squeeze:today	73 59 4
-squeeze	73 59 4 69
-st:year	96 97 83
 st	96 33 97 42 83
-stands	83 44 31
-stated	169 51 85 17
-still:stock	69 133 83 91
-still:volume	161 69 83
-still:would	161 83 91 158
 still	161 69 133 45 83 149 89 91 158
-stock:test	69 171 83 55
-stock:thoughts	133 91 123
-stock:time:well	101 91 117
 stock:time	101 59 91 14 79 83 117
-stock:two	69 173 17 83
 stock:volume	69 59 47 79 83
 stock:way	59 91 171 79 17 83
 stock:week	69 59 17 55 123
 stock:well	101 91 173 117 55
 stock:would	91 79 17 83 117 123
-stock:years	47 17 117
 stock	101 69 133 59 91 171 173 14 47 79 17 83 117 55 123
-stocks:time	89 67 49
 stocks	89 67 169 10 49 152 153
-strong:year	83 51 188
 strong	194 137 78 83 51 123 188
-success	32 33 117
 supply	173 79 51 83 31
 support	161 9 171 141 79 83
 sure	99 173 179 149 23 91
-switch	147 100 101
-system	112 9 33
-target:xb	101 73 27
 target	33 101 73 141 85 27
 technical	161 9 10 141 82 83 93
-tesla	80 20 117
-test:two	69 9 83
-test:week	69 85 55
 test	33 69 6 8 9 171 83 85 55
-texas	16 66 101
-text	169 44 45
 th	97 161 134 137 16 17 18
-thank	9 169 17
 thats	97 169 141 83 153 91
 thing	97 197 83 147 88 27 63
 things	160 197 101 169 55 89
-think:thoughts	123 185 91 63
 think	153 101 123 173 117 185 91 63
 though	33 161 195 73 173
-thought:would	83 123 158
 thought	101 27 83 123 158
 thoughts	97 133 27 91 185 123 63 31
-three	73 195 17 79
 time:today	33 73 59 49 89
-time:us:would	33 79 49 91
 time:us	33 45 79 49 91
-time:week	67 59 45 141
 time:would	33 67 79 49 83 117 91
-time:xb	101 73 147 117
 time	33 67 101 166 73 59 45 14 79 141 49 83 147 117 89 91
-tldr:week	161 45 141 123
 tldr	161 137 45 141 173 83 123
 today	33 4 27 73 9 173 49 89 59
-tomorrow	73 98 85
-top:us	45 51 153
 top	97 99 101 73 45 51 179 23 153
-trade	161 52 118 47
 trading	99 47 179 23 89
-true	49 90 91 31
 two	69 9 11 173 17 51 83
-understand:would	33 38 17 83
 understand	33 38 17 83 121
-upward	161 188 55
 us	96 33 161 169 75 45 79 49 51 55 153 91
-use:using	27 33 79
-use	27 33 83 79
-used	47 45 79
 using	33 79 17 147 27
 uwmc	160 161 194 195 106 122 123 61
-value	185 83 169 173
-volatility	88 171 166 63
 volume	161 195 69 47 79 83 59
-voting	17 67 101
 way	33 59 138 171 45 79 17 83 153 91 61
-week:would	161 67 17 123
 week	161 67 69 59 45 141 17 85 55 185 58 123
 weekly	99 140 141 179 147 23 123
 weeks	192 33 45 17 83
 well	33 161 101 173 117 55 91
-within	192 17 147 141
-work	9 51 86 33
 world	169 45 173 79 89 63
 would	33 161 67 38 91 79 17 49 83 117 123 158
-written	16 17 75
 wsb	168 169 49 179 23
 xb	101 69 167 73 11 147 117 55 121 27
 year	96 97 162 195 133 198 140 141 173 79 50 83 51 114 89 188 93
 years	141 47 17 49 117 121 124 31
 yesterday	64 161 73 91 63
 yolo	64 99 169 106 138 49 179 150 23 156 158
-
-
----
-
